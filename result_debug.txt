@@ -1,0 +1,4072 @@
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 1: Score: 8, [7♠, K♠][4♡][9♢, 5♢][J♣, 2♣, 7♣]
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][4♢, 7♢][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][J♢, 3♢][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1 plays 9♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][4♢, 7♢][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][J♢, 3♢][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1: Score: 8, [7♠, K♠][4♡][5♢][J♣, 2♣, 7♣]
+Player 2 plays 4♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♢
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][J♢, 3♢][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1: Score: 8, [7♠, K♠][4♡][5♢][J♣, 2♣, 7♣]
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][7♢][8♣, 4♣]
+Player 3 plays J♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 1: Score: 8, [7♠, K♠][4♡][5♢][J♣, 2♣, 7♣]
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][7♢][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][3♢][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1 plays 5♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][7♢][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][3♢][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1: Score: 8, [7♠, K♠][4♡][][J♣, 2♣, 7♣]
+Player 2 plays 7♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][3♢][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1: Score: 8, [7♠, K♠][4♡][][J♣, 2♣, 7♣]
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3 plays 3♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢, K♢][3♣, 10♣]
+Player 1: Score: 8, [7♠, K♠][4♡][][J♣, 2♣, 7♣]
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4 plays K♢
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 1: Score: 8, [7♠, K♠][4♡][][J♣, 2♣, 7♣]
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢][3♣, 10♣]
+Player 1 plays K♠
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 2: Score: 8, [4♠][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢][3♣, 10♣]
+Player 1: Score: 8, [7♠][4♡][][J♣, 2♣, 7♣]
+Player 2 plays 4♠
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 3: Score: 8, [Q♠][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢][3♣, 10♣]
+Player 1: Score: 8, [7♠][4♡][][J♣, 2♣, 7♣]
+Player 2: Score: 8, [][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3 plays Q♠
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 5, Top Card: Q♠
+Player 4: Score: 8, [6♠, 10♠, 2♠][8♡][8♢][3♣, 10♣]
+Player 1: Score: 8, [7♠][4♡][][J♣, 2♣, 7♣]
+Player 2: Score: 8, [][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4 plays 2♠
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 7, Top Card: 2♠
+Player 1: Score: 8, [7♠][4♡][][J♣, 2♣, 7♣]
+Player 2: Score: 8, [][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][8♡][8♢][3♣, 10♣]
+Player 1 plays 2♣
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 9, Top Card: 2♣
+Player 2: Score: 8, [][2♡, Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][8♡][8♢][3♣, 10♣]
+Player 1: Score: 8, [7♠][4♡][][J♣, 7♣]
+Player 2 plays 2♡
+--------------------------------------------------
+Deck: [6♢, A♣, 10♢, A♡, 3♠, 5♡, Q♣, 8♠, A♢, 9♠, 3♡, J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 11, Top Card: 2♡
+Player 3: Score: 8, [][J♡, 10♡, 6♡][][6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][8♡][8♢][3♣, 10♣]
+Player 1: Score: 8, [7♠][4♡][][J♣, 7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][8♣, 4♣]
+Player 3 draws 11 cards
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 4: Score: 8, [6♠, 10♠][8♡][8♢][3♣, 10♣]
+Player 1: Score: 8, [7♠][4♡][][J♣, 7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][3♡, 5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4 plays 8♡
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: s, Draw Count: 0, Top Card: 8♡
+Player 1: Score: 8, [7♠][4♡][][J♣, 7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][3♡, 5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][3♣, 10♣]
+Player 1 plays 7♠
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 2: Score: 8, [][Q♡, 9♡][][8♣, 4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][3♡, 5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][3♣, 10♣]
+Player 1: Score: 8, [][4♡][][J♣, 7♣]
+Player 2 plays 8♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: h, Draw Count: 0, Top Card: 8♣
+Player 3: Score: 8, [9♠, 8♠, 3♠][3♡, 5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][3♣, 10♣]
+Player 1: Score: 8, [][4♡][][J♣, 7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3 plays 3♡
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 4: Score: 8, [6♠, 10♠][][8♢][3♣, 10♣]
+Player 1: Score: 8, [][4♡][][J♣, 7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4 plays 3♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 1: Score: 8, [][4♡][][J♣, 7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][10♣]
+Player 1 plays J♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][Q♣, A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][10♣]
+Player 1: Score: 8, [][4♡][][7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3 plays Q♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 4: Score: 8, [6♠, 10♠][][8♢][10♣]
+Player 1: Score: 8, [][4♡][][7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][A♣, 6♣, K♣]
+Player 4 plays 10♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 1: Score: 8, [][4♡][][7♣]
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][]
+Player 1 plays 7♣
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 2: Score: 8, [][Q♡, 9♡][][4♣]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][]
+Player 1: Score: 8, [][4♡][][]
+Player 2 plays 4♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][A♣, 6♣, K♣]
+Player 4: Score: 8, [6♠, 10♠][][8♢][]
+Player 1: Score: 8, [][4♡][][]
+Player 2: Score: 8, [][Q♡, 9♡][][]
+Player 3 plays A♣
+--------------------------------------------------
+Deck: [J♠, 5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 2: Score: 8, [][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][]
+Player 4: Score: 8, [6♠, 10♠][][8♢][]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [5♣, A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 1: Score: 8, [][4♡][][]
+Player 4: Score: 8, [6♠, 10♠][][8♢][]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [J♠][Q♡, 9♡][][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 4: Score: 8, [6♠, 10♠][][8♢][]
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [J♠][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4 plays 8♢
+--------------------------------------------------
+Deck: [A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: s, Draw Count: 0, Top Card: 8♢
+Player 3: Score: 8, [9♠, 8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [J♠][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4: Score: 8, [6♠, 10♠][][][]
+Player 3 plays 9♠
+--------------------------------------------------
+Deck: [A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 2: Score: 8, [J♠][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4: Score: 8, [6♠, 10♠][][][]
+Player 3: Score: 8, [8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2 plays J♠
+--------------------------------------------------
+Deck: [A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 4: Score: 8, [6♠, 10♠][][][]
+Player 3: Score: 8, [8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4 plays 6♠
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 3: Score: 8, [8♠, 3♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4: Score: 8, [10♠][][][]
+Player 3 plays 3♠
+--------------------------------------------------
+Deck: [A♠, 9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 2: Score: 8, [][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4: Score: 8, [10♠][][][]
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [9♣, 5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 1: Score: 8, [][4♡][][5♣]
+Player 4: Score: 8, [10♠][][][]
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][Q♡, 9♡][][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [5♠, Q♢, K♡, 7♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 4: Score: 8, [10♠][][][]
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][9♣, 5♣]
+Player 4 plays 10♠
+Player 4 is out of cards to play! Player 4 draws 7 cards
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 10♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][9♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡, K♡][K♢, 9♢, Q♢][]
+Player 3 plays 10♡
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♡
+Player 2: Score: 8, [A♠][Q♡, 9♡][][]
+Player 1: Score: 8, [][4♡][][9♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡, K♡][K♢, 9♢, Q♢][]
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2 plays Q♡
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 1: Score: 8, [][4♡][][9♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡, K♡][K♢, 9♢, Q♢][]
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][9♡][][]
+Player 1 plays 4♡
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 4: Score: 7, [Q♠, 5♠][7♡, K♡][K♢, 9♢, Q♢][]
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][9♡][][]
+Player 1: Score: 8, [][][][9♣, 5♣]
+Player 4 plays K♡
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 3: Score: 8, [8♠][5♡, A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][9♡][][]
+Player 1: Score: 8, [][][][9♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][K♢, 9♢, Q♢][]
+Player 3 plays 5♡
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 2: Score: 8, [A♠][9♡][][]
+Player 1: Score: 8, [][][][9♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][K♢, 9♢, Q♢][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2 plays 9♡
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 1: Score: 8, [][][][9♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][K♢, 9♢, Q♢][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][][][]
+Player 1 plays 9♣
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 4: Score: 7, [Q♠, 5♠][7♡][K♢, 9♢, Q♢][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][][][]
+Player 1: Score: 8, [][][][5♣]
+Player 4 plays 9♢
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][A♢, 10♢, 6♢][6♣, K♣]
+Player 2: Score: 8, [A♠][][][]
+Player 1: Score: 8, [][][][5♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][K♢, Q♢][]
+Player 3 plays A♢
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 4: Score: 7, [Q♠, 5♠][7♡][K♢, Q♢][]
+Player 1: Score: 8, [][][][5♣]
+Player 2: Score: 8, [A♠][][][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][10♢, 6♢][6♣, K♣]
+Player 4 plays K♢
+--------------------------------------------------
+Deck: [A♣, 2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 1: Score: 8, [][][][5♣]
+Player 2: Score: 8, [A♠][][][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][10♢, 6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][Q♢][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [2♢, 4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 2: Score: 8, [A♠][][][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][10♢, 6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][Q♢][]
+Player 1: Score: 8, [][][][A♣, 5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][10♢, 6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][Q♢][]
+Player 1: Score: 8, [][][][A♣, 5♣]
+Player 2: Score: 8, [A♠][][2♢][]
+Player 3 plays 10♢
+--------------------------------------------------
+Deck: [4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♢
+Player 4: Score: 7, [Q♠, 5♠][7♡][Q♢][]
+Player 1: Score: 8, [][][][A♣, 5♣]
+Player 2: Score: 8, [A♠][][2♢][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4 plays Q♢
+--------------------------------------------------
+Deck: [4♠, 3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 1: Score: 8, [][][][A♣, 5♣]
+Player 2: Score: 8, [A♠][][2♢][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 2: Score: 8, [A♠][][2♢][]
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][][]
+Player 1: Score: 8, [4♠][][][A♣, 5♣]
+Player 2 plays 2♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [3♡, 4♣, J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♢
+Player 3: Score: 8, [8♠][A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][7♡][][]
+Player 1: Score: 8, [4♠][][][A♣, 5♣]
+Player 2: Score: 8, [A♠][][][]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 4: Score: 7, [Q♠, 5♠][7♡][][]
+Player 1: Score: 8, [4♠][][][A♣, 5♣]
+Player 2: Score: 8, [A♠][][][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4 plays 7♡
+--------------------------------------------------
+Deck: [J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: s, Draw Count: 0, Top Card: 7♡
+Player 1: Score: 8, [4♠][][][A♣, 5♣]
+Player 2: Score: 8, [A♠][][][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][][]
+Player 1 plays 4♠
+--------------------------------------------------
+Deck: [J♢, 2♠, Q♣, 9♠, 4♢, 2♡, J♣, 8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 2: Score: 8, [A♠][][][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][][]
+Player 1: Score: 8, [][][][A♣, 5♣]
+Player 2 plays A♠
+Player 2 is out of cards to play! Player 2 draws 7 cards
+--------------------------------------------------
+Deck: [8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 1: Score: 8, [][][][A♣, 5♣]
+Player 4: Score: 7, [Q♠, 5♠][][][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][J♣, Q♣]
+Player 1 plays A♣
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][J♣, Q♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][][]
+Player 1: Score: 8, [][][][5♣]
+Player 2 plays J♣
+--------------------------------------------------
+Deck: [8♢, 7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 4: Score: 7, [Q♠, 5♠][][][]
+Player 1: Score: 8, [][][][5♣]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][Q♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [7♢, 8♡, K♠, 6♠, 5♢, J♠, 10♣, 3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 1: Score: 8, [][][][5♣]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][Q♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1 plays 5♣
+Player 1 is out of cards to play! Player 1 draws 7 cards
+--------------------------------------------------
+Deck: [3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♣
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][Q♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][10♣]
+Player 2 plays Q♣
+--------------------------------------------------
+Deck: [3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][4♣, 6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][10♣]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][]
+Player 3 plays 4♣
+--------------------------------------------------
+Deck: [3♣, 7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][10♣]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][10♣]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][3♣]
+Player 1 plays 10♣
+--------------------------------------------------
+Deck: [7♣, 3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][3♣]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][6♣, K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][3♣]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][7♣]
+Player 3 plays 6♣
+--------------------------------------------------
+Deck: [3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 4: Score: 7, [Q♠, 5♠][][8♢][3♣]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][7♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4 plays 3♣
+--------------------------------------------------
+Deck: [3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢, 7♢][]
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][7♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1 plays 7♢
+--------------------------------------------------
+Deck: [3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: s, Draw Count: 0, Top Card: 7♢
+Player 2: Score: 7, [9♠, 2♠][2♡][4♢, J♢][7♣]
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢][]
+Player 2 plays 9♠
+--------------------------------------------------
+Deck: [3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 3: Score: 8, [8♠][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢][]
+Player 2: Score: 7, [2♠][2♡][4♢, J♢][7♣]
+Player 3 plays 8♠
+--------------------------------------------------
+Deck: [3♠, 2♣, 8♣, 3♢, 7♠]
+Declared Suit: h, Draw Count: 0, Top Card: 8♠
+Player 4: Score: 7, [Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢][]
+Player 2: Score: 7, [2♠][2♡][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [2♣, 8♣, 3♢, 7♠]
+Declared Suit: h, Draw Count: 0, Top Card: 8♠
+Player 1: Score: 7, [J♠, 6♠, K♠][8♡][5♢][]
+Player 2: Score: 7, [2♠][2♡][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4: Score: 7, [3♠, Q♠, 5♠][][8♢][]
+Player 1 plays 8♡
+--------------------------------------------------
+Deck: [2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 2: Score: 7, [2♠][2♡][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4: Score: 7, [3♠, Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][][5♢][]
+Player 2 plays 2♡
+--------------------------------------------------
+Deck: [2♣, 8♣, 3♢, 7♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♡
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][K♣]
+Player 4: Score: 7, [3♠, Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][][5♢][]
+Player 2: Score: 7, [2♠][][4♢, J♢][7♣]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [3♢, 7♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 4: Score: 7, [3♠, Q♠, 5♠][][8♢][]
+Player 1: Score: 7, [J♠, 6♠, K♠][][5♢][]
+Player 2: Score: 7, [2♠][][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, 2♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [7♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 1: Score: 7, [J♠, 6♠, K♠][][5♢][]
+Player 2: Score: 7, [2♠][][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, 2♣, K♣]
+Player 4: Score: 7, [3♠, Q♠, 5♠][][3♢, 8♢][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [4♡, K♢, 2♢, 9♢, 10♣, Q♡, 5♣, 9♣, 4♣, 4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 2: Score: 7, [2♠][][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, 2♣, K♣]
+Player 4: Score: 7, [3♠, Q♠, 5♠][][3♢, 8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][][5♢][]
+Player 2 plays 2♠
+--------------------------------------------------
+Deck: [4♡, K♢, 2♢, 9♢, 10♣, Q♡, 5♣, 9♣, 4♣, 4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 2, Top Card: 2♠
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, 2♣, K♣]
+Player 4: Score: 7, [3♠, Q♠, 5♠][][3♢, 8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][][5♢][]
+Player 2: Score: 7, [][][4♢, J♢][7♣]
+Player 3 plays 2♣
+--------------------------------------------------
+Deck: [4♡, K♢, 2♢, 9♢, 10♣, Q♡, 5♣, 9♣, 4♣, 4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 4, Top Card: 2♣
+Player 4: Score: 7, [3♠, Q♠, 5♠][][3♢, 8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][][5♢][]
+Player 2: Score: 7, [][][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, K♣]
+Player 4 plays Q♠
+--------------------------------------------------
+Deck: [4♡, K♢, 2♢, 9♢, 10♣, Q♡, 5♣, 9♣, 4♣, 4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 9, Top Card: Q♠
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][][5♢][]
+Player 2: Score: 7, [][][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, K♣]
+Player 4: Score: 7, [3♠, 5♠][][3♢, 8♢][]
+Player 1 draws 9 cards
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♠
+Player 2: Score: 7, [][][4♢, J♢][7♣]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, K♣]
+Player 4: Score: 7, [3♠, 5♠][][3♢, 8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][9♢, 2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2 plays 7♣
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: d, Draw Count: 0, Top Card: 7♣
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][6♢][8♣, K♣]
+Player 4: Score: 7, [3♠, 5♠][][3♢, 8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][9♢, 2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][4♢, J♢][]
+Player 3 plays 6♢
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 4: Score: 7, [3♠, 5♠][][3♢, 8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][9♢, 2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][4♢, J♢][]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][8♣, K♣]
+Player 4 plays 3♢
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][9♢, 2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][4♢, J♢][]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][8♣, K♣]
+Player 4: Score: 7, [3♠, 5♠][][8♢][]
+Player 1 plays 9♢
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 2: Score: 7, [][][4♢, J♢][]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][8♣, K♣]
+Player 4: Score: 7, [3♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2 plays 4♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♢
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][8♣, K♣]
+Player 4: Score: 7, [3♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][]
+Player 3 plays 8♣
+--------------------------------------------------
+Deck: [4♠, J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: h, Draw Count: 0, Top Card: 8♣
+Player 4: Score: 7, [3♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: h, Draw Count: 0, Top Card: 8♣
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][Q♡, 4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 3♠, 5♠][][8♢][]
+Player 1 plays Q♡
+--------------------------------------------------
+Deck: [J♣, Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 2: Score: 7, [][][J♢][]
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 3♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 3: Score: 8, [][3♡, A♡, J♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 3♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][J♣]
+Player 3 plays 3♡
+--------------------------------------------------
+Deck: [Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 4: Score: 7, [4♠, 3♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][J♣]
+Player 3: Score: 8, [][A♡, J♡, 6♡][][K♣]
+Player 4 plays 3♠
+--------------------------------------------------
+Deck: [Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 1: Score: 7, [7♠, J♠, 6♠, K♠][4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][J♣]
+Player 3: Score: 8, [][A♡, J♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 1 plays J♠
+--------------------------------------------------
+Deck: [Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 3: Score: 8, [][A♡, J♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, 6♠, K♠][4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][J♣]
+Player 3 plays J♡
+--------------------------------------------------
+Deck: [Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 1: Score: 7, [7♠, 6♠, K♠][4♡][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][J♢][J♣]
+Player 3: Score: 8, [][A♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 1 plays 4♡
+--------------------------------------------------
+Deck: [Q♢, 9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 2: Score: 7, [][][J♢][J♣]
+Player 3: Score: 8, [][A♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, 6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 3: Score: 8, [][A♡, 6♡][][K♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 1: Score: 7, [7♠, 6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 7, [][][Q♢, J♢][J♣]
+Player 3 plays A♡
+--------------------------------------------------
+Deck: [9♠, 7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 2: Score: 7, [][][Q♢, J♢][J♣]
+Player 1: Score: 7, [7♠, 6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3: Score: 8, [][6♡][][K♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 1: Score: 7, [7♠, 6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3: Score: 8, [][6♡][][K♣]
+Player 2: Score: 7, [9♠][][Q♢, J♢][J♣]
+Player 1 plays 7♠
+--------------------------------------------------
+Deck: [7♡, 6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: c, Draw Count: 0, Top Card: 7♠
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3: Score: 8, [][6♡][][K♣]
+Player 2: Score: 7, [9♠][][Q♢, J♢][J♣]
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: c, Draw Count: 0, Top Card: 7♠
+Player 3: Score: 8, [][6♡][][K♣]
+Player 2: Score: 7, [9♠][][Q♢, J♢][J♣]
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][7♡][8♢][]
+Player 3 plays K♣
+*Knock, knock* - Player 3 has a single card left!
+--------------------------------------------------
+Deck: [6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 2: Score: 7, [9♠][][Q♢, J♢][J♣]
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][7♡][8♢][]
+Player 3: Score: 8, [][6♡][][]
+Player 2 plays J♣
+--------------------------------------------------
+Deck: [6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 4: Score: 7, [4♠, 5♠][7♡][8♢][]
+Player 3: Score: 8, [][6♡][][]
+Player 2: Score: 7, [9♠][][Q♢, J♢][]
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 plays 7♡
+--------------------------------------------------
+Deck: [6♣, 10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: s, Draw Count: 0, Top Card: 7♡
+Player 3: Score: 8, [][6♡][][]
+Player 2: Score: 7, [9♠][][Q♢, J♢][]
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: s, Draw Count: 0, Top Card: 7♡
+Player 2: Score: 7, [9♠][][Q♢, J♢][]
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3: Score: 8, [][6♡][][6♣]
+Player 2 plays 9♠
+--------------------------------------------------
+Deck: [10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 1: Score: 7, [6♠, K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3: Score: 8, [][6♡][][6♣]
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1 plays 6♠
+--------------------------------------------------
+Deck: [10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 4: Score: 7, [4♠, 5♠][][8♢][]
+Player 3: Score: 8, [][6♡][][6♣]
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1: Score: 7, [K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 plays 4♠
+--------------------------------------------------
+Deck: [10♢, 7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 3: Score: 8, [][6♡][][6♣]
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1: Score: 7, [K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [5♠][][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [7♢, Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1: Score: 7, [K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [5♠][][8♢][]
+Player 3: Score: 8, [][6♡][10♢][6♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 1: Score: 7, [K♠][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [5♠][][8♢][]
+Player 3: Score: 8, [][6♡][10♢][6♣]
+Player 2: Score: 7, [][][7♢, Q♢, J♢][]
+Player 1 plays K♠
+--------------------------------------------------
+Deck: [Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 4: Score: 7, [5♠][][8♢][]
+Player 3: Score: 8, [][6♡][10♢][6♣]
+Player 2: Score: 7, [][][7♢, Q♢, J♢][]
+Player 1: Score: 7, [][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 plays 5♠
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [Q♣, A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 5♠
+Player 3: Score: 8, [][6♡][10♢][6♣]
+Player 2: Score: 7, [][][7♢, Q♢, J♢][]
+Player 1: Score: 7, [][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 5♠
+Player 2: Score: 7, [][][7♢, Q♢, J♢][]
+Player 1: Score: 7, [][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][][8♢][]
+Player 3: Score: 8, [][6♡][10♢][Q♣, 6♣]
+Player 2 plays 7♢
+--------------------------------------------------
+Deck: [A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: d, Draw Count: 0, Top Card: 7♢
+Player 1: Score: 7, [][][2♢, K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][][8♢][]
+Player 3: Score: 8, [][6♡][10♢][Q♣, 6♣]
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1 plays 2♢
+--------------------------------------------------
+Deck: [A♠, A♣, 9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 2, Top Card: 2♢
+Player 4: Score: 7, [][][8♢][]
+Player 3: Score: 8, [][6♡][10♢][Q♣, 6♣]
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1: Score: 7, [][][K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 draws 2 cards
+--------------------------------------------------
+Deck: [9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 3: Score: 8, [][6♡][10♢][Q♣, 6♣]
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1: Score: 7, [][][K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][][8♢][A♣]
+Player 3 plays 10♢
+--------------------------------------------------
+Deck: [9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 10♢
+Player 2: Score: 7, [][][Q♢, J♢][]
+Player 1: Score: 7, [][][K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][][8♢][A♣]
+Player 3: Score: 8, [][6♡][][Q♣, 6♣]
+Player 2 plays Q♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 1: Score: 7, [][][K♢, 5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][][8♢][A♣]
+Player 3: Score: 8, [][6♡][][Q♣, 6♣]
+Player 2: Score: 7, [][][J♢][]
+Player 1 plays K♢
+--------------------------------------------------
+Deck: [9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 4: Score: 7, [A♠][][8♢][A♣]
+Player 3: Score: 8, [][6♡][][Q♣, 6♣]
+Player 2: Score: 7, [][][J♢][]
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 plays 8♢
+--------------------------------------------------
+Deck: [9♡, 10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 3: Score: 8, [][6♡][][Q♣, 6♣]
+Player 2: Score: 7, [][][J♢][]
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][][][A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [10♡, 8♡, 3♣, 5♡, 10♠, 8♠, K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 2: Score: 7, [][][J♢][]
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][][Q♣, 6♣]
+Player 2 plays J♢
+Player 2 is out of cards to play! Player 2 draws 6 cards
+--------------------------------------------------
+Deck: [K♡, A♢]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 4: Score: 7, [A♠][][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][][Q♣, 6♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][3♣]
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [A♢]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 3: Score: 8, [][9♡, 6♡][][Q♣, 6♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][3♣]
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][K♡][][A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [K♣, Q♡, 7♣, 2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][3♣]
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][K♡][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][A♢][Q♣, 6♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [Q♡, 7♣, 2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 1: Score: 7, [][][5♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][K♡][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][A♢][Q♣, 6♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1 plays 5♢
+--------------------------------------------------
+Deck: [Q♡, 7♣, 2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 4: Score: 7, [A♠][K♡][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][A♢][Q♣, 6♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][][4♣, 9♣, 5♣, 10♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [7♣, 2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 3: Score: 8, [][9♡, 6♡][A♢][Q♣, 6♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [A♠][Q♡, K♡][][A♣]
+Player 3 plays A♢
+--------------------------------------------------
+Deck: [7♣, 2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 4: Score: 7, [A♠][Q♡, K♡][][A♣]
+Player 1: Score: 7, [][][][4♣, 9♣, 5♣, 10♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 3: Score: 8, [][9♡, 6♡][][Q♣, 6♣]
+Player 4 plays A♠
+--------------------------------------------------
+Deck: [7♣, 2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 3: Score: 8, [][9♡, 6♡][][Q♣, 6♣]
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][Q♡, K♡][][A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 2: Score: 6, [8♠, 10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][Q♡, K♡][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][][7♣, Q♣, 6♣]
+Player 2 plays 8♠
+--------------------------------------------------
+Deck: [2♢, 9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 1: Score: 7, [][][][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][Q♡, K♡][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][][7♣, Q♣, 6♣]
+Player 2: Score: 6, [10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [9♢, K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 4: Score: 7, [][Q♡, K♡][][A♣]
+Player 3: Score: 8, [][9♡, 6♡][][7♣, Q♣, 6♣]
+Player 2: Score: 6, [10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][2♢][4♣, 9♣, 5♣, 10♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [K♢, 6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 3: Score: 8, [][9♡, 6♡][][7♣, Q♣, 6♣]
+Player 2: Score: 6, [10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][2♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][Q♡, K♡][9♢][A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 2: Score: 6, [10♠][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][2♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][Q♡, K♡][9♢][A♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][7♣, Q♣, 6♣]
+Player 2 plays 10♠
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 1: Score: 7, [][][2♢][4♣, 9♣, 5♣, 10♣]
+Player 4: Score: 7, [][Q♡, K♡][9♢][A♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][7♣, Q♣, 6♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1 plays 10♣
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 4: Score: 7, [][Q♡, K♡][9♢][A♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][7♣, Q♣, 6♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 1: Score: 7, [][][2♢][4♣, 9♣, 5♣]
+Player 4 plays A♣
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 1: Score: 7, [][][2♢][4♣, 9♣, 5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][7♣, Q♣, 6♣]
+Player 4: Score: 7, [][Q♡, K♡][9♢][]
+Player 1 plays 4♣
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][K♣, 3♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][7♣, Q♣, 6♣]
+Player 4: Score: 7, [][Q♡, K♡][9♢][]
+Player 1: Score: 7, [][][2♢][9♣, 5♣]
+Player 2 plays K♣
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 3: Score: 8, [][9♡, 6♡][K♢][7♣, Q♣, 6♣]
+Player 4: Score: 7, [][Q♡, K♡][9♢][]
+Player 1: Score: 7, [][][2♢][9♣, 5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][3♣]
+Player 3 plays 7♣
+--------------------------------------------------
+Deck: [6♢, 10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 4: Score: 7, [][Q♡, K♡][9♢][]
+Player 1: Score: 7, [][][2♢][9♣, 5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][3♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][Q♣, 6♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 1: Score: 7, [][][2♢][9♣, 5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][3♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][Q♣, 6♣]
+Player 4: Score: 7, [][Q♡, K♡][6♢, 9♢][]
+Player 1 plays 9♣
+--------------------------------------------------
+Deck: [10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][3♣]
+Player 3: Score: 8, [][9♡, 6♡][K♢][Q♣, 6♣]
+Player 4: Score: 7, [][Q♡, K♡][6♢, 9♢][]
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2 plays 3♣
+--------------------------------------------------
+Deck: [10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 3: Score: 8, [][9♡, 6♡][K♢][Q♣, 6♣]
+Player 4: Score: 7, [][Q♡, K♡][6♢, 9♢][]
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][]
+Player 3 plays Q♣
+--------------------------------------------------
+Deck: [10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 4: Score: 7, [][Q♡, K♡][6♢, 9♢][]
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][]
+Player 3: Score: 8, [][9♡, 6♡][K♢][6♣]
+Player 4 plays Q♡
+--------------------------------------------------
+Deck: [10♢, 4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][]
+Player 3: Score: 8, [][9♡, 6♡][K♢][6♣]
+Player 4: Score: 7, [][K♡][6♢, 9♢][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 2: Score: 6, [][5♡, 8♡, 10♡][][]
+Player 3: Score: 8, [][9♡, 6♡][K♢][6♣]
+Player 4: Score: 7, [][K♡][6♢, 9♢][]
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2 plays 5♡
+--------------------------------------------------
+Deck: [4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 3: Score: 8, [][9♡, 6♡][K♢][6♣]
+Player 4: Score: 7, [][K♡][6♢, 9♢][]
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2: Score: 6, [][8♡, 10♡][][]
+Player 3 plays 9♡
+--------------------------------------------------
+Deck: [4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 4: Score: 7, [][K♡][6♢, 9♢][]
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2: Score: 6, [][8♡, 10♡][][]
+Player 3: Score: 8, [][6♡][K♢][6♣]
+Player 4 plays K♡
+--------------------------------------------------
+Deck: [4♢, 8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2: Score: 6, [][8♡, 10♡][][]
+Player 3: Score: 8, [][6♡][K♢][6♣]
+Player 4: Score: 7, [][][6♢, 9♢][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 2: Score: 6, [][8♡, 10♡][][]
+Player 3: Score: 8, [][6♡][K♢][6♣]
+Player 4: Score: 7, [][][6♢, 9♢][]
+Player 1: Score: 7, [][][4♢, 10♢, 2♢][5♣]
+Player 2 plays 8♡
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 3: Score: 8, [][6♡][K♢][6♣]
+Player 4: Score: 7, [][][6♢, 9♢][]
+Player 1: Score: 7, [][][4♢, 10♢, 2♢][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3 plays 6♡
+--------------------------------------------------
+Deck: [8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 4: Score: 7, [][][6♢, 9♢][]
+Player 1: Score: 7, [][][4♢, 10♢, 2♢][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [][][K♢][6♣]
+Player 4 plays 6♢
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 1: Score: 7, [][][4♢, 10♢, 2♢][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [][][K♢][6♣]
+Player 4: Score: 7, [][][9♢][]
+Player 1 plays 4♢
+--------------------------------------------------
+Deck: [8♢, 2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♢
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [][][K♢][6♣]
+Player 4: Score: 7, [][][9♢][]
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♢
+Player 3: Score: 8, [][][K♢][6♣]
+Player 4: Score: 7, [][][9♢][]
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2: Score: 6, [][10♡][8♢][]
+Player 3 plays K♢
+*Knock, knock* - Player 3 has a single card left!
+--------------------------------------------------
+Deck: [2♣, 5♠, 2♡, 7♠, Q♠, 7♢, 3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 4: Score: 7, [][][9♢][]
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2: Score: 6, [][10♡][8♢][]
+Player 3: Score: 8, [][][][6♣]
+Player 4 plays 9♢
+Player 4 is out of cards to play! Player 4 draws 6 cards
+--------------------------------------------------
+Deck: [3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 1: Score: 7, [][][10♢, 2♢][5♣]
+Player 2: Score: 6, [][10♡][8♢][]
+Player 3: Score: 8, [][][][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][7♢][2♣]
+Player 1 plays 10♢
+--------------------------------------------------
+Deck: [3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 10♢
+Player 2: Score: 6, [][10♡][8♢][]
+Player 3: Score: 8, [][][][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][7♢][2♣]
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2 plays 8♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [3♢, Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 3: Score: 8, [][][][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][7♢][2♣]
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][7♢][2♣]
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [][][3♢][6♣]
+Player 4 plays 7♢
+--------------------------------------------------
+Deck: [Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 1: Score: 7, [][][2♢][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [][][3♢][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][][2♣]
+Player 1 plays 2♢
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [Q♢, 4♠, 4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 2, Top Card: 2♢
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [][][3♢][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][][2♣]
+Player 1: Score: 7, [][][][5♣]
+Player 2 draws 2 cards
+--------------------------------------------------
+Deck: [4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 3: Score: 8, [][][3♢][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][][2♣]
+Player 1: Score: 7, [][][][5♣]
+Player 2: Score: 6, [4♠][10♡][Q♢][]
+Player 3 plays 3♢
+*Knock, knock* - Player 3 has a single card left!
+--------------------------------------------------
+Deck: [4♡, K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 4: Score: 6, [Q♠, 7♠, 5♠][2♡][][2♣]
+Player 1: Score: 7, [][][][5♣]
+Player 2: Score: 6, [4♠][10♡][Q♢][]
+Player 3: Score: 8, [][][][6♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [K♠, J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 1: Score: 7, [][][][5♣]
+Player 2: Score: 6, [4♠][10♡][Q♢][]
+Player 3: Score: 8, [][][][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][4♡, 2♡][][2♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 2: Score: 6, [4♠][10♡][Q♢][]
+Player 3: Score: 8, [][][][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [K♠][][][5♣]
+Player 2 plays Q♢
+--------------------------------------------------
+Deck: [J♣, 9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 3: Score: 8, [][][][6♣]
+Player 4: Score: 6, [Q♠, 7♠, 5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [K♠][][][5♣]
+Player 2: Score: 6, [4♠][10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 4: Score: 6, [Q♠, 7♠, 5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [K♠][][][5♣]
+Player 2: Score: 6, [4♠][10♡][][]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4 plays Q♠
+--------------------------------------------------
+Deck: [9♠, A♡, 6♠, 7♡, 3♡, J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 5, Top Card: Q♠
+Player 1: Score: 7, [K♠][][][5♣]
+Player 2: Score: 6, [4♠][10♡][][]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [7♠, 5♠][4♡, 2♡][][2♣]
+Player 1 draws 5 cards
+--------------------------------------------------
+Deck: [J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: Q♠
+Player 2: Score: 6, [4♠][10♡][][]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [7♠, 5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [6♠, 9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2 plays 4♠
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [J♠, 3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [7♠, 5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [6♠, 9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 4: Score: 6, [7♠, 5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [6♠, 9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [J♠][][][J♣, 6♣]
+Player 4 plays 7♠
+--------------------------------------------------
+Deck: [3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 1: Score: 7, [6♠, 9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [J♠][][][J♣, 6♣]
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1 plays 6♠
+--------------------------------------------------
+Deck: [3♠, 2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [J♠][][][J♣, 6♣]
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 3: Score: 8, [J♠][][][J♣, 6♣]
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [3♠][10♡][][]
+Player 3 plays J♠
+--------------------------------------------------
+Deck: [2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 1: Score: 7, [9♠, K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [3♠][10♡][][]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1 plays 9♠
+--------------------------------------------------
+Deck: [2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 2: Score: 6, [3♠][10♡][][]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [K♠][3♡, 7♡, A♡][][5♣]
+Player 2 plays 3♠
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [2♠, 8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 4: Score: 6, [5♠][4♡, 2♡][][2♣]
+Player 1: Score: 7, [K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [2♠][][][J♣, 6♣]
+Player 4 plays 5♠
+--------------------------------------------------
+Deck: [8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: 5♠
+Player 1: Score: 7, [K♠][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [2♠][][][J♣, 6♣]
+Player 4: Score: 6, [][4♡, 2♡][][2♣]
+Player 1 plays K♠
+--------------------------------------------------
+Deck: [8♣, J♡]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 2: Score: 6, [][10♡][][]
+Player 3: Score: 8, [2♠][][][J♣, 6♣]
+Player 4: Score: 6, [][4♡, 2♡][][2♣]
+Player 1: Score: 7, [][3♡, 7♡, A♡][][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [J♡]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 3: Score: 8, [2♠][][][J♣, 6♣]
+Player 4: Score: 6, [][4♡, 2♡][][2♣]
+Player 1: Score: 7, [][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][8♣]
+Player 3 plays 2♠
+--------------------------------------------------
+Deck: [J♡]
+Declared Suit: , Draw Count: 2, Top Card: 2♠
+Player 4: Score: 6, [][4♡, 2♡][][2♣]
+Player 1: Score: 7, [][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][8♣]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4 plays 2♡
+--------------------------------------------------
+Deck: [J♡]
+Declared Suit: , Draw Count: 4, Top Card: 2♡
+Player 1: Score: 7, [][3♡, 7♡, A♡][][5♣]
+Player 2: Score: 6, [][10♡][][8♣]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [][4♡][][2♣]
+Player 1 draws 4 cards
+--------------------------------------------------
+Deck: [4♢, 10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 2: Score: 6, [][10♡][][8♣]
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [][4♡][][2♣]
+Player 1: Score: 7, [K♠, 9♠][J♡, 3♡, 7♡, A♡][7♢][5♣]
+Player 2 plays 10♡
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [4♢, 10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♡
+Player 3: Score: 8, [][][][J♣, 6♣]
+Player 4: Score: 6, [][4♡][][2♣]
+Player 1: Score: 7, [K♠, 9♠][J♡, 3♡, 7♡, A♡][7♢][5♣]
+Player 2: Score: 6, [][][][8♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♡
+Player 4: Score: 6, [][4♡][][2♣]
+Player 1: Score: 7, [K♠, 9♠][J♡, 3♡, 7♡, A♡][7♢][5♣]
+Player 2: Score: 6, [][][][8♣]
+Player 3: Score: 8, [][][4♢][J♣, 6♣]
+Player 4 plays 4♡
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 1: Score: 7, [K♠, 9♠][J♡, 3♡, 7♡, A♡][7♢][5♣]
+Player 2: Score: 6, [][][][8♣]
+Player 3: Score: 8, [][][4♢][J♣, 6♣]
+Player 4: Score: 6, [][][][2♣]
+Player 1 plays J♡
+--------------------------------------------------
+Deck: [10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 3: Score: 8, [][][4♢][J♣, 6♣]
+Player 4: Score: 6, [][][][2♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][7♢][5♣]
+Player 2: Score: 6, [][][][8♣]
+Player 3 plays J♣
+--------------------------------------------------
+Deck: [10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][7♢][5♣]
+Player 2: Score: 6, [][][][8♣]
+Player 3: Score: 8, [][][4♢][6♣]
+Player 4: Score: 6, [][][][2♣]
+Player 1 plays 5♣
+--------------------------------------------------
+Deck: [10♣, 4♠, 3♣, 2♠, 5♠, J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♣
+Player 2: Score: 6, [][][][8♣]
+Player 3: Score: 8, [][][4♢][6♣]
+Player 4: Score: 6, [][][][2♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][7♢][]
+Player 2 plays 8♣
+Player 2 is out of cards to play! Player 2 draws 5 cards
+--------------------------------------------------
+Deck: [J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♣
+Player 3: Score: 8, [][][4♢][6♣]
+Player 4: Score: 6, [][][][2♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][7♢][]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][3♣, 10♣]
+Player 3 plays 6♣
+*Knock, knock* - Player 3 has a single card left!
+--------------------------------------------------
+Deck: [J♢, Q♡, 7♠, 8♡, 6♠, 2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 4: Score: 6, [][][][2♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][7♢][]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][3♣, 10♣]
+Player 3: Score: 8, [][][4♢][]
+Player 4 plays 2♣
+Player 4 is out of cards to play! Player 4 draws 5 cards
+--------------------------------------------------
+Deck: [2♢, Q♣, 5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♣
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][7♢][]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][3♣, 10♣]
+Player 3: Score: 8, [][][4♢][]
+Player 4: Score: 5, [6♠, 7♠][8♡, Q♡][J♢][]
+Player 1 draws 2 cards
+--------------------------------------------------
+Deck: [5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♣
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][3♣, 10♣]
+Player 3: Score: 8, [][][4♢][]
+Player 4: Score: 5, [6♠, 7♠][8♡, Q♡][J♢][]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][Q♣]
+Player 2 plays 3♣
+--------------------------------------------------
+Deck: [5♢, 9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 3: Score: 8, [][][4♢][]
+Player 4: Score: 5, [6♠, 7♠][8♡, Q♡][J♢][]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][Q♣]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][10♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [9♡, Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 4: Score: 5, [6♠, 7♠][8♡, Q♡][J♢][]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][Q♣]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][10♣]
+Player 3: Score: 8, [][][5♢, 4♢][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][Q♣]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][10♣]
+Player 3: Score: 8, [][][5♢, 4♢][]
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][]
+Player 1 plays Q♣
+--------------------------------------------------
+Deck: [Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][10♣]
+Player 3: Score: 8, [][][5♢, 4♢][]
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][]
+Player 2 plays 10♣
+--------------------------------------------------
+Deck: [Q♢, 4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 3: Score: 8, [][][5♢, 4♢][]
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [4♣, 6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][]
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][]
+Player 3: Score: 8, [][][Q♢, 5♢, 4♢][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 1: Score: 7, [K♠, 9♠][3♡, 7♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][]
+Player 3: Score: 8, [][][Q♢, 5♢, 4♢][]
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1 plays 7♡
+--------------------------------------------------
+Deck: [6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 7♡
+Player 2: Score: 5, [5♠, 2♠, 4♠][][][]
+Player 3: Score: 8, [][][Q♢, 5♢, 4♢][]
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, A♡][2♢, 7♢][]
+Player 2 plays 2♠
+--------------------------------------------------
+Deck: [6♢, K♣, A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♠
+Player 3: Score: 8, [][][Q♢, 5♢, 4♢][]
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠, 4♠][][][]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♠
+Player 4: Score: 5, [6♠, 7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1: Score: 7, [K♠, 9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠, 4♠][][][]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢, 4♢][K♣]
+Player 4 plays 6♠
+--------------------------------------------------
+Deck: [A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 1: Score: 7, [K♠, 9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠, 4♠][][][]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢, 4♢][K♣]
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1 plays K♠
+--------------------------------------------------
+Deck: [A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 2: Score: 5, [5♠, 4♠][][][]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢, 4♢][K♣]
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2 plays 4♠
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 3: Score: 8, [][][6♢, Q♢, 5♢, 4♢][K♣]
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠][][][]
+Player 3 plays 4♢
+--------------------------------------------------
+Deck: [A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♢
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][J♢][4♣]
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 5, [5♠][][][]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][K♣]
+Player 4 plays J♢
+--------------------------------------------------
+Deck: [A♠, 5♡, 10♠, A♣, K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 2: Score: 5, [5♠][][][]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][K♣]
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2 plays 5♠
+Player 2 is out of cards to play! Player 2 draws 4 cards
+--------------------------------------------------
+Deck: [K♡, 7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 5♠
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][K♣]
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 4, [10♠, A♠][5♡][][A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 5♠
+Player 4: Score: 5, [7♠][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 4, [10♠, A♠][5♡][][A♣]
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][K♣]
+Player 4 plays 7♠
+--------------------------------------------------
+Deck: [7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 1: Score: 7, [9♠][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 4, [10♠, A♠][5♡][][A♣]
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][K♣]
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1 plays 9♠
+--------------------------------------------------
+Deck: [7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 2: Score: 4, [10♠, A♠][5♡][][A♣]
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][K♣]
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][3♡, A♡][2♢, 7♢][]
+Player 2 plays 10♠
+--------------------------------------------------
+Deck: [7♣, 6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][K♣]
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 4, [A♠][5♡][][A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [6♡, 9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 4, [A♠][5♡][][A♣]
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][7♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 1: Score: 7, [][3♡, A♡][2♢, 7♢][]
+Player 2: Score: 4, [A♠][5♡][][A♣]
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][6♡, 9♡, 8♡, Q♡][][4♣]
+Player 1 plays 7♢
+--------------------------------------------------
+Deck: [9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: h, Draw Count: 0, Top Card: 7♢
+Player 2: Score: 4, [A♠][5♡][][A♣]
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][6♡, 9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][3♡, A♡][2♢][]
+Player 2 plays 5♡
+--------------------------------------------------
+Deck: [9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 3: Score: 8, [][K♡][6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][6♡, 9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][3♡, A♡][2♢][]
+Player 2: Score: 4, [A♠][][][A♣]
+Player 3 plays K♡
+--------------------------------------------------
+Deck: [9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 4: Score: 5, [][6♡, 9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][3♡, A♡][2♢][]
+Player 2: Score: 4, [A♠][][][A♣]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][7♣, K♣]
+Player 4 plays 6♡
+--------------------------------------------------
+Deck: [9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 1: Score: 7, [][3♡, A♡][2♢][]
+Player 2: Score: 4, [A♠][][][A♣]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1 plays 3♡
+--------------------------------------------------
+Deck: [9♣, 3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 2: Score: 4, [A♠][][][A♣]
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][A♡][2♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [3♢, J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 3: Score: 8, [][][6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][A♡][2♢][]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 4: Score: 5, [][9♡, 8♡, Q♡][][4♣]
+Player 1: Score: 7, [][A♡][2♢][]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3: Score: 8, [][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 4 plays 9♡
+--------------------------------------------------
+Deck: [J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 1: Score: 7, [][A♡][2♢][]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3: Score: 8, [][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][8♡, Q♡][][4♣]
+Player 1 plays A♡
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 4: Score: 5, [][8♡, Q♡][][4♣]
+Player 3: Score: 8, [][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 1: Score: 7, [][][2♢][]
+Player 4 plays 8♡
+--------------------------------------------------
+Deck: [J♠, A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 3: Score: 8, [][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 1: Score: 7, [][][2♢][]
+Player 4: Score: 5, [][Q♡][][4♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [A♢, K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 1: Score: 7, [][][2♢][]
+Player 4: Score: 5, [][Q♡][][4♣]
+Player 3: Score: 8, [J♠][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [K♢, Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 1: Score: 7, [][][2♢][]
+Player 4: Score: 5, [][Q♡][][4♣]
+Player 3: Score: 8, [J♠][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 2: Score: 4, [A♠][][A♢][9♣, A♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 4: Score: 5, [][Q♡][][4♣]
+Player 3: Score: 8, [J♠][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 2: Score: 4, [A♠][][A♢][9♣, A♣]
+Player 1: Score: 7, [][][K♢, 2♢][]
+Player 4 plays Q♡
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 3: Score: 8, [J♠][][3♢, 6♢, Q♢, 5♢][7♣, K♣]
+Player 2: Score: 4, [A♠][][A♢][9♣, A♣]
+Player 1: Score: 7, [][][K♢, 2♢][]
+Player 4: Score: 5, [][][][4♣]
+Player 3 plays Q♢
+--------------------------------------------------
+Deck: [Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 2: Score: 4, [A♠][][A♢][9♣, A♣]
+Player 1: Score: 7, [][][K♢, 2♢][]
+Player 4: Score: 5, [][][][4♣]
+Player 3: Score: 8, [J♠][][3♢, 6♢, 5♢][7♣, K♣]
+Player 2 plays A♢
+--------------------------------------------------
+Deck: [Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 3: Score: 8, [J♠][][3♢, 6♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [][][][4♣]
+Player 1: Score: 7, [][][K♢, 2♢][]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3 plays 3♢
+--------------------------------------------------
+Deck: [Q♠, 8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 4: Score: 5, [][][][4♣]
+Player 1: Score: 7, [][][K♢, 2♢][]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3: Score: 8, [J♠][][6♢, 5♢][7♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 1: Score: 7, [][][K♢, 2♢][]
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3: Score: 8, [J♠][][6♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1 plays K♢
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [8♢, 9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 2: Score: 4, [A♠][][][9♣, A♣]
+Player 3: Score: 8, [J♠][][6♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1: Score: 7, [][][2♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 3: Score: 8, [J♠][][6♢, 5♢][7♣, K♣]
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1: Score: 7, [][][2♢][]
+Player 2: Score: 4, [A♠][][8♢][9♣, A♣]
+Player 3 plays 6♢
+--------------------------------------------------
+Deck: [9♢, 10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1: Score: 7, [][][2♢][]
+Player 2: Score: 4, [A♠][][8♢][9♣, A♣]
+Player 3: Score: 8, [J♠][][5♢][7♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [10♢, 8♠, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 1: Score: 7, [][][2♢][]
+Player 2: Score: 4, [A♠][][8♢][9♣, A♣]
+Player 3: Score: 8, [J♠][][5♢][7♣, K♣]
+Player 4: Score: 5, [Q♠][][9♢][4♣]
+Player 1 plays 2♢
+Player 1 is out of cards to play! Player 1 draws 6 cards
+--------------------------------------------------
+Deck: [6♣, 6♡, 2♣, 3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♢
+Player 2: Score: 4, [A♠][][8♢][9♣, A♣]
+Player 3: Score: 8, [J♠][][5♢][7♣, K♣]
+Player 4: Score: 5, [Q♠][][9♢][4♣]
+Player 1: Score: 6, [3♠, 8♠][3♡][10♢][8♣, J♣]
+Player 2 draws 2 cards
+--------------------------------------------------
+Deck: [2♣, 3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 3: Score: 8, [J♠][][5♢][7♣, K♣]
+Player 4: Score: 5, [Q♠][][9♢][4♣]
+Player 1: Score: 6, [3♠, 8♠][3♡][10♢][8♣, J♣]
+Player 2: Score: 4, [A♠][6♡][8♢][6♣, 9♣, A♣]
+Player 3 plays 5♢
+--------------------------------------------------
+Deck: [2♣, 3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 4: Score: 5, [Q♠][][9♢][4♣]
+Player 1: Score: 6, [3♠, 8♠][3♡][10♢][8♣, J♣]
+Player 2: Score: 4, [A♠][6♡][8♢][6♣, 9♣, A♣]
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 4 plays 9♢
+--------------------------------------------------
+Deck: [2♣, 3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 1: Score: 6, [3♠, 8♠][3♡][10♢][8♣, J♣]
+Player 2: Score: 4, [A♠][6♡][8♢][6♣, 9♣, A♣]
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1 plays 10♢
+--------------------------------------------------
+Deck: [2♣, 3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♢
+Player 2: Score: 4, [A♠][6♡][8♢][6♣, 9♣, A♣]
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1: Score: 6, [3♠, 8♠][3♡][][8♣, J♣]
+Player 2 plays 8♢
+--------------------------------------------------
+Deck: [2♣, 3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1: Score: 6, [3♠, 8♠][3♡][][8♣, J♣]
+Player 2: Score: 4, [A♠][6♡][][6♣, 9♣, A♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [3♢, 4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 4: Score: 5, [Q♠][][][4♣]
+Player 1: Score: 6, [3♠, 8♠][3♡][][8♣, J♣]
+Player 2: Score: 4, [A♠][6♡][][6♣, 9♣, A♣]
+Player 3: Score: 8, [J♠][][][2♣, 7♣, K♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 1: Score: 6, [3♠, 8♠][3♡][][8♣, J♣]
+Player 2: Score: 4, [A♠][6♡][][6♣, 9♣, A♣]
+Player 3: Score: 8, [J♠][][][2♣, 7♣, K♣]
+Player 4: Score: 5, [Q♠][][3♢][4♣]
+Player 1 plays 8♠
+--------------------------------------------------
+Deck: [4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 2: Score: 4, [A♠][6♡][][6♣, 9♣, A♣]
+Player 3: Score: 8, [J♠][][][2♣, 7♣, K♣]
+Player 4: Score: 5, [Q♠][][3♢][4♣]
+Player 1: Score: 6, [3♠][3♡][][8♣, J♣]
+Player 2 plays A♠
+--------------------------------------------------
+Deck: [4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 1: Score: 6, [3♠][3♡][][8♣, J♣]
+Player 4: Score: 5, [Q♠][][3♢][4♣]
+Player 3: Score: 8, [J♠][][][2♣, 7♣, K♣]
+Player 2: Score: 4, [][6♡][][6♣, 9♣, A♣]
+Player 1 plays 3♠
+--------------------------------------------------
+Deck: [4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♠
+Player 4: Score: 5, [Q♠][][3♢][4♣]
+Player 3: Score: 8, [J♠][][][2♣, 7♣, K♣]
+Player 2: Score: 4, [][6♡][][6♣, 9♣, A♣]
+Player 1: Score: 6, [][3♡][][8♣, J♣]
+Player 4 plays Q♠
+--------------------------------------------------
+Deck: [4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 5, Top Card: Q♠
+Player 3: Score: 8, [J♠][][][2♣, 7♣, K♣]
+Player 2: Score: 4, [][6♡][][6♣, 9♣, A♣]
+Player 1: Score: 6, [][3♡][][8♣, J♣]
+Player 4: Score: 5, [][][3♢][4♣]
+Player 3 plays 2♣
+--------------------------------------------------
+Deck: [4♠, 8♡, 6♢, 4♢, 7♠, J♢, 10♡, 2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 7, Top Card: 2♣
+Player 2: Score: 4, [][6♡][][6♣, 9♣, A♣]
+Player 1: Score: 6, [][3♡][][8♣, J♣]
+Player 4: Score: 5, [][][3♢][4♣]
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 2 draws 7 cards
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♣
+Player 1: Score: 6, [][3♡][][8♣, J♣]
+Player 4: Score: 5, [][][3♢][4♣]
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][6♣, 9♣, A♣]
+Player 1 plays 8♣
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♣
+Player 4: Score: 5, [][][3♢][4♣]
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][6♣, 9♣, A♣]
+Player 1: Score: 6, [][3♡][][J♣]
+Player 4 plays 4♣
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 3: Score: 8, [J♠][][][7♣, K♣]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][6♣, 9♣, A♣]
+Player 1: Score: 6, [][3♡][][J♣]
+Player 4: Score: 5, [][][3♢][]
+Player 3 plays 7♣
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][6♣, 9♣, A♣]
+Player 1: Score: 6, [][3♡][][J♣]
+Player 4: Score: 5, [][][3♢][]
+Player 3: Score: 8, [J♠][][][K♣]
+Player 2 plays 6♣
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 1: Score: 6, [][3♡][][J♣]
+Player 4: Score: 5, [][][3♢][]
+Player 3: Score: 8, [J♠][][][K♣]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][9♣, A♣]
+Player 1 plays J♣
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 3: Score: 8, [J♠][][][K♣]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][9♣, A♣]
+Player 1: Score: 6, [][3♡][][]
+Player 4: Score: 5, [][][3♢][]
+Player 3 plays K♣
+*Knock, knock* - Player 3 has a single card left!
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][9♣, A♣]
+Player 1: Score: 6, [][3♡][][]
+Player 4: Score: 5, [][][3♢][]
+Player 3: Score: 8, [J♠][][][]
+Player 2 plays 9♣
+--------------------------------------------------
+Deck: [2♡, 9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 1: Score: 6, [][3♡][][]
+Player 4: Score: 5, [][][3♢][]
+Player 3: Score: 8, [J♠][][][]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][A♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [9♡, 10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 4: Score: 5, [][][3♢][]
+Player 3: Score: 8, [J♠][][][]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][A♣]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [10♠, 3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 3: Score: 8, [J♠][][][]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][A♣]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 4: Score: 5, [][9♡][3♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][A♣]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 4: Score: 5, [][9♡][3♢][]
+Player 3: Score: 8, [10♠, J♠][][][]
+Player 2 plays A♣
+--------------------------------------------------
+Deck: [3♣, 10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 3: Score: 8, [10♠, J♠][][][]
+Player 4: Score: 5, [][9♡][3♢][]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [10♣, 7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 4: Score: 5, [][9♡][3♢][]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [7♡, Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4: Score: 5, [][9♡][3♢][10♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 2: Score: 4, [7♠, 4♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4: Score: 5, [][9♡][3♢][10♣]
+Player 1: Score: 6, [][7♡, 2♡, 3♡][][]
+Player 2 plays 4♠
+--------------------------------------------------
+Deck: [Q♡, Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: h, Draw Count: 0, Top Card: 4♠
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4: Score: 5, [][9♡][3♢][10♣]
+Player 1: Score: 6, [][7♡, 2♡, 3♡][][]
+Player 2: Score: 4, [7♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: h, Draw Count: 0, Top Card: 4♠
+Player 4: Score: 5, [][9♡][3♢][10♣]
+Player 1: Score: 6, [][7♡, 2♡, 3♡][][]
+Player 2: Score: 4, [7♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][Q♡][][3♣]
+Player 4 plays 9♡
+--------------------------------------------------
+Deck: [Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 1: Score: 6, [][7♡, 2♡, 3♡][][]
+Player 2: Score: 4, [7♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][Q♡][][3♣]
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1 plays 7♡
+--------------------------------------------------
+Deck: [Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♡
+Player 2: Score: 4, [7♠][10♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][Q♡][][3♣]
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2 plays 10♡
+--------------------------------------------------
+Deck: [Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♡
+Player 3: Score: 8, [10♠, J♠][Q♡][][3♣]
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2: Score: 4, [7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3 plays Q♡
+--------------------------------------------------
+Deck: [Q♢, 5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2: Score: 4, [7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 1: Score: 6, [][2♡, 3♡][][]
+Player 2: Score: 4, [7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 1 plays 2♡
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [5♡, 9♠, K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♡
+Player 2: Score: 4, [7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 1: Score: 6, [][3♡][][]
+Player 2 draws 2 cards
+--------------------------------------------------
+Deck: [K♠, 4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 3: Score: 8, [10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 1: Score: 6, [][3♡][][]
+Player 2: Score: 4, [9♠, 7♠][5♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [4♡, J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 1: Score: 6, [][3♡][][]
+Player 2: Score: 4, [9♠, 7♠][5♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [K♠, 10♠, J♠][][][3♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [J♡, 5♣, 7♢, K♡, A♡, 2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 1: Score: 6, [][3♡][][]
+Player 2: Score: 4, [9♠, 7♠][5♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][4♡][Q♢, 3♢][10♣]
+Player 1 plays 3♡
+Player 1 is out of cards to play! Player 1 draws 5 cards
+--------------------------------------------------
+Deck: [2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 2: Score: 4, [9♠, 7♠][5♡, 8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][4♡][Q♢, 3♢][10♣]
+Player 1: Score: 5, [][A♡, K♡, J♡][7♢][5♣]
+Player 2 plays 5♡
+--------------------------------------------------
+Deck: [2♠, K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 3: Score: 8, [K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][4♡][Q♢, 3♢][10♣]
+Player 1: Score: 5, [][A♡, K♡, J♡][7♢][5♣]
+Player 2: Score: 4, [9♠, 7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 4: Score: 5, [][4♡][Q♢, 3♢][10♣]
+Player 1: Score: 5, [][A♡, K♡, J♡][7♢][5♣]
+Player 2: Score: 4, [9♠, 7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4 plays 4♡
+--------------------------------------------------
+Deck: [K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 1: Score: 5, [][A♡, K♡, J♡][7♢][5♣]
+Player 2: Score: 4, [9♠, 7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 1 plays A♡
+--------------------------------------------------
+Deck: [K♢, A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 2: Score: 4, [9♠, 7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 1: Score: 5, [][K♡, J♡][7♢][5♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [A♢, 6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 2: Score: 4, [9♠, 7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 1: Score: 5, [][K♡, J♡][7♢][5♣]
+Player 4: Score: 5, [][][K♢, Q♢, 3♢][10♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 2: Score: 4, [9♠, 7♠][8♡, 6♡][J♢, 4♢, 6♢][]
+Player 1: Score: 5, [][K♡, J♡][7♢][5♣]
+Player 4: Score: 5, [][][K♢, Q♢, 3♢][10♣]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][A♢][3♣]
+Player 2 plays 8♡
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 1: Score: 5, [][K♡, J♡][7♢][5♣]
+Player 4: Score: 5, [][][K♢, Q♢, 3♢][10♣]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][A♢][3♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][J♢, 4♢, 6♢][]
+Player 1 plays K♡
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 4: Score: 5, [][][K♢, Q♢, 3♢][10♣]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][A♢][3♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][J♢, 4♢, 6♢][]
+Player 1: Score: 5, [][J♡][7♢][5♣]
+Player 4 plays K♢
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][A♢][3♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][J♢, 4♢, 6♢][]
+Player 1: Score: 5, [][J♡][7♢][5♣]
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 3 plays A♢
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 4: Score: 5, [][][Q♢, 3♢][10♣]
+Player 1: Score: 5, [][J♡][7♢][5♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4 plays Q♢
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 1: Score: 5, [][J♡][7♢][5♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1 plays 7♢
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 2: Score: 4, [9♠, 7♠][6♡][J♢, 4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1: Score: 5, [][J♡][][5♣]
+Player 2 plays J♢
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 4: Score: 5, [][][3♢][10♣]
+Player 1: Score: 5, [][J♡][][5♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4 plays 3♢
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 1: Score: 5, [][J♡][][5♣]
+Player 2: Score: 4, [9♠, 7♠][6♡][4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][][10♣]
+Player 1 plays 5♣
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: h, Draw Count: 0, Top Card: 5♣
+Player 2: Score: 4, [9♠, 7♠][6♡][4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][][10♣]
+Player 1: Score: 5, [][J♡][][]
+Player 2 plays 6♡
+--------------------------------------------------
+Deck: [6♠, Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 3: Score: 8, [2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][][10♣]
+Player 1: Score: 5, [][J♡][][]
+Player 2: Score: 4, [9♠, 7♠][][4♢, 6♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [Q♣, 5♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 4: Score: 5, [][][][10♣]
+Player 1: Score: 5, [][J♡][][]
+Player 2: Score: 4, [9♠, 7♠][][4♢, 6♢][]
+Player 3: Score: 8, [6♠, 2♠, K♠, 10♠, J♠][][][3♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [5♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 1: Score: 5, [][J♡][][]
+Player 2: Score: 4, [9♠, 7♠][][4♢, 6♢][]
+Player 3: Score: 8, [6♠, 2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][][Q♣, 10♣]
+Player 1 plays J♡
+Player 1 is out of cards to play! Player 1 draws 4 cards
+--------------------------------------------------
+Deck: [A♠, 5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 3: Score: 8, [6♠, 2♠, K♠, 10♠, J♠][][][3♣]
+Player 4: Score: 5, [][][][Q♣, 10♣]
+Player 1: Score: 4, [5♠][K♡, 6♡][8♢][]
+Player 2: Score: 4, [9♠, 7♠][][4♢, 6♢][]
+Player 3 plays J♠
+--------------------------------------------------
+Deck: [A♠, 5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 1: Score: 4, [5♠][K♡, 6♡][8♢][]
+Player 2: Score: 4, [9♠, 7♠][][4♢, 6♢][]
+Player 3: Score: 8, [6♠, 2♠, K♠, 10♠][][][3♣]
+Player 4: Score: 5, [][][][Q♣, 10♣]
+Player 1 plays 5♠
+--------------------------------------------------
+Deck: [A♠, 5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♠
+Player 2: Score: 4, [9♠, 7♠][][4♢, 6♢][]
+Player 3: Score: 8, [6♠, 2♠, K♠, 10♠][][][3♣]
+Player 4: Score: 5, [][][][Q♣, 10♣]
+Player 1: Score: 4, [][K♡, 6♡][8♢][]
+Player 2 plays 9♠
+--------------------------------------------------
+Deck: [A♠, 5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 3: Score: 8, [6♠, 2♠, K♠, 10♠][][][3♣]
+Player 4: Score: 5, [][][][Q♣, 10♣]
+Player 1: Score: 4, [][K♡, 6♡][8♢][]
+Player 2: Score: 4, [7♠][][4♢, 6♢][]
+Player 3 plays 6♠
+--------------------------------------------------
+Deck: [A♠, 5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 4: Score: 5, [][][][Q♣, 10♣]
+Player 1: Score: 4, [][K♡, 6♡][8♢][]
+Player 2: Score: 4, [7♠][][4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠][][][3♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 1: Score: 4, [][K♡, 6♡][8♢][]
+Player 2: Score: 4, [7♠][][4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠][][][3♣]
+Player 4: Score: 5, [A♠][][][Q♣, 10♣]
+Player 1 plays 6♡
+--------------------------------------------------
+Deck: [5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 2: Score: 4, [7♠][][4♢, 6♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠][][][3♣]
+Player 4: Score: 5, [A♠][][][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][8♢][]
+Player 2 plays 6♢
+--------------------------------------------------
+Deck: [5♣, 10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 3: Score: 8, [2♠, K♠, 10♠][][][3♣]
+Player 4: Score: 5, [A♠][][][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][8♢][]
+Player 2: Score: 4, [7♠][][4♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [10♢, 4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 4: Score: 5, [A♠][][][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][8♢][]
+Player 2: Score: 4, [7♠][][4♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠][][][5♣, 3♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 1: Score: 4, [][K♡][8♢][]
+Player 2: Score: 4, [7♠][][4♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠][][][5♣, 3♣]
+Player 4: Score: 5, [A♠][][10♢][Q♣, 10♣]
+Player 1 plays 8♢
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 2: Score: 4, [7♠][][4♢][]
+Player 3: Score: 8, [2♠, K♠, 10♠][][][5♣, 3♣]
+Player 4: Score: 5, [A♠][][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][]
+Player 2 plays 4♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 4♢
+Player 3: Score: 8, [2♠, K♠, 10♠][][][5♣, 3♣]
+Player 4: Score: 5, [A♠][][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][]
+Player 2: Score: 4, [7♠][][][]
+Player 3 plays 2♠
+--------------------------------------------------
+Deck: [4♠, 3♡, K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♠
+Player 4: Score: 5, [A♠][][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][]
+Player 2: Score: 4, [7♠][][][]
+Player 3: Score: 8, [K♠, 10♠][][][5♣, 3♣]
+Player 4 draws 2 cards
+--------------------------------------------------
+Deck: [K♣, 10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♠
+Player 1: Score: 4, [][K♡][][]
+Player 2: Score: 4, [7♠][][][]
+Player 3: Score: 8, [K♠, 10♠][][][5♣, 3♣]
+Player 4: Score: 5, [4♠, A♠][3♡][10♢][Q♣, 10♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [10♡, A♣, 2♡, J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♠
+Player 2: Score: 4, [7♠][][][]
+Player 3: Score: 8, [K♠, 10♠][][][5♣, 3♣]
+Player 4: Score: 5, [4♠, A♠][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2 plays 7♠
+Player 2 is out of cards to play! Player 2 draws 3 cards
+--------------------------------------------------
+Deck: [J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 3: Score: 8, [K♠, 10♠][][][5♣, 3♣]
+Player 4: Score: 5, [4♠, A♠][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2: Score: 3, [][2♡, 10♡][][A♣]
+Player 3 plays K♠
+--------------------------------------------------
+Deck: [J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 4: Score: 5, [4♠, A♠][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2: Score: 3, [][2♡, 10♡][][A♣]
+Player 3: Score: 8, [10♠][][][5♣, 3♣]
+Player 4 plays 4♠
+--------------------------------------------------
+Deck: [J♣, 7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2: Score: 3, [][2♡, 10♡][][A♣]
+Player 3: Score: 8, [10♠][][][5♣, 3♣]
+Player 4: Score: 5, [A♠][3♡][10♢][Q♣, 10♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [7♡, 3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 2: Score: 3, [][2♡, 10♡][][A♣]
+Player 3: Score: 8, [10♠][][][5♣, 3♣]
+Player 4: Score: 5, [A♠][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 3: Score: 8, [10♠][][][5♣, 3♣]
+Player 4: Score: 5, [A♠][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][A♣]
+Player 3 plays 10♠
+--------------------------------------------------
+Deck: [3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 4: Score: 5, [A♠][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][A♣]
+Player 3: Score: 8, [][][][5♣, 3♣]
+Player 4 plays A♠
+--------------------------------------------------
+Deck: [3♢, 9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 3: Score: 8, [][][][5♣, 3♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][A♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 4: Score: 5, [][3♡][10♢][Q♣, 10♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][A♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 4: Score: 5, [][3♡][10♢][Q♣, 10♣]
+Player 3: Score: 8, [][][3♢][5♣, 3♣]
+Player 2 plays A♣
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 3: Score: 8, [][][3♢][5♣, 3♣]
+Player 4: Score: 5, [][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3 plays 5♣
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♣
+Player 4: Score: 5, [][3♡][10♢][Q♣, 10♣]
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3: Score: 8, [][][3♢][3♣]
+Player 4 plays Q♣
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 1: Score: 4, [][K♡][][J♣, K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3: Score: 8, [][][3♢][3♣]
+Player 4: Score: 5, [][3♡][10♢][10♣]
+Player 1 plays J♣
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 3: Score: 8, [][][3♢][3♣]
+Player 4: Score: 5, [][3♡][10♢][10♣]
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3 plays 3♣
+*Knock, knock* - Player 3 has a single card left!
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 4: Score: 5, [][3♡][10♢][10♣]
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3: Score: 8, [][][3♢][]
+Player 4 plays 10♣
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 1: Score: 4, [][K♡][][K♣]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3: Score: 8, [][][3♢][]
+Player 4: Score: 5, [][3♡][10♢][]
+Player 1 plays K♣
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [9♢, Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 2: Score: 3, [][7♡, 2♡, 10♡][][]
+Player 3: Score: 8, [][][3♢][]
+Player 4: Score: 5, [][3♡][10♢][]
+Player 1: Score: 4, [][K♡][][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 3: Score: 8, [][][3♢][]
+Player 4: Score: 5, [][3♡][10♢][]
+Player 1: Score: 4, [][K♡][][]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][9♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [A♡, J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 4: Score: 5, [][3♡][10♢][]
+Player 1: Score: 4, [][K♡][][]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][9♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [J♢, 5♢, A♢, 9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 1: Score: 4, [][K♡][][]
+Player 2: Score: 3, [][7♡, 2♡, 10♡][9♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][]
+Player 4: Score: 5, [][A♡, 3♡][10♢][]
+Player 1 plays K♡
+Player 1 is out of cards to play! Player 1 draws 3 cards
+--------------------------------------------------
+Deck: [9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 2: Score: 3, [][7♡, 2♡, 10♡][9♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][]
+Player 4: Score: 5, [][A♡, 3♡][10♢][]
+Player 1: Score: 3, [][][A♢, 5♢, J♢][]
+Player 2 plays 7♡
+--------------------------------------------------
+Deck: [9♣, 6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♡
+Player 3: Score: 8, [][][Q♢, 3♢][]
+Player 4: Score: 5, [][A♡, 3♡][10♢][]
+Player 1: Score: 3, [][][A♢, 5♢, J♢][]
+Player 2: Score: 3, [][2♡, 10♡][9♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♡
+Player 4: Score: 5, [][A♡, 3♡][10♢][]
+Player 1: Score: 3, [][][A♢, 5♢, J♢][]
+Player 2: Score: 3, [][2♡, 10♡][9♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][9♣]
+Player 4 plays A♡
+--------------------------------------------------
+Deck: [6♣, 9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 3: Score: 8, [][][Q♢, 3♢][9♣]
+Player 2: Score: 3, [][2♡, 10♡][9♢][]
+Player 1: Score: 3, [][][A♢, 5♢, J♢][]
+Player 4: Score: 5, [][3♡][10♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 2: Score: 3, [][2♡, 10♡][9♢][]
+Player 1: Score: 3, [][][A♢, 5♢, J♢][]
+Player 4: Score: 5, [][3♡][10♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][6♣, 9♣]
+Player 2 plays 2♡
+--------------------------------------------------
+Deck: [9♡, 8♣, 7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♡
+Player 1: Score: 3, [][][A♢, 5♢, J♢][]
+Player 4: Score: 5, [][3♡][10♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][6♣, 9♣]
+Player 2: Score: 3, [][10♡][9♢][]
+Player 1 draws 2 cards
+--------------------------------------------------
+Deck: [7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 4: Score: 5, [][3♡][10♢][]
+Player 3: Score: 8, [][][Q♢, 3♢][6♣, 9♣]
+Player 2: Score: 3, [][10♡][9♢][]
+Player 1: Score: 3, [][9♡][A♢, 5♢, J♢][8♣]
+Player 4 plays 3♡
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 3: Score: 8, [][][Q♢, 3♢][6♣, 9♣]
+Player 2: Score: 3, [][10♡][9♢][]
+Player 1: Score: 3, [][9♡][A♢, 5♢, J♢][8♣]
+Player 4: Score: 5, [][][10♢][]
+Player 3 plays 3♢
+--------------------------------------------------
+Deck: [7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 2: Score: 3, [][10♡][9♢][]
+Player 1: Score: 3, [][9♡][A♢, 5♢, J♢][8♣]
+Player 4: Score: 5, [][][10♢][]
+Player 3: Score: 8, [][][Q♢][6♣, 9♣]
+Player 2 plays 9♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 1: Score: 3, [][9♡][A♢, 5♢, J♢][8♣]
+Player 4: Score: 5, [][][10♢][]
+Player 3: Score: 8, [][][Q♢][6♣, 9♣]
+Player 2: Score: 3, [][10♡][][]
+Player 1 plays A♢
+--------------------------------------------------
+Deck: [7♢, 7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][Q♢][6♣, 9♣]
+Player 4: Score: 5, [][][10♢][]
+Player 1: Score: 3, [][9♡][5♢, J♢][8♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 3: Score: 8, [][][Q♢][6♣, 9♣]
+Player 4: Score: 5, [][][10♢][]
+Player 1: Score: 3, [][9♡][5♢, J♢][8♣]
+Player 2: Score: 3, [][10♡][7♢][]
+Player 3 plays Q♢
+--------------------------------------------------
+Deck: [7♣, 8♡, Q♠, 4♣, K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 4: Score: 5, [][][10♢][]
+Player 1: Score: 3, [][9♡][5♢, J♢][8♣]
+Player 2: Score: 3, [][10♡][7♢][]
+Player 3: Score: 8, [][][][6♣, 9♣]
+Player 4 plays 10♢
+Player 4 is out of cards to play! Player 4 draws 4 cards
+--------------------------------------------------
+Deck: [K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♢
+Player 1: Score: 3, [][9♡][5♢, J♢][8♣]
+Player 2: Score: 3, [][10♡][7♢][]
+Player 3: Score: 8, [][][][6♣, 9♣]
+Player 4: Score: 4, [Q♠][8♡][][4♣, 7♣]
+Player 1 plays 5♢
+--------------------------------------------------
+Deck: [K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 2: Score: 3, [][10♡][7♢][]
+Player 3: Score: 8, [][][][6♣, 9♣]
+Player 4: Score: 4, [Q♠][8♡][][4♣, 7♣]
+Player 1: Score: 3, [][9♡][J♢][8♣]
+Player 2 plays 7♢
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [K♢, Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 3: Score: 8, [][][][6♣, 9♣]
+Player 4: Score: 4, [Q♠][8♡][][4♣, 7♣]
+Player 1: Score: 3, [][9♡][J♢][8♣]
+Player 2: Score: 3, [][10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 4: Score: 4, [Q♠][8♡][][4♣, 7♣]
+Player 1: Score: 3, [][9♡][J♢][8♣]
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][K♢][6♣, 9♣]
+Player 4 plays 7♣
+--------------------------------------------------
+Deck: [Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 1: Score: 3, [][9♡][J♢][8♣]
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][K♢][6♣, 9♣]
+Player 4: Score: 4, [Q♠][8♡][][4♣]
+Player 1 plays 8♣
+--------------------------------------------------
+Deck: [Q♡, 4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♣
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][K♢][6♣, 9♣]
+Player 4: Score: 4, [Q♠][8♡][][4♣]
+Player 1: Score: 3, [][9♡][J♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 8♣
+Player 3: Score: 8, [][][K♢][6♣, 9♣]
+Player 4: Score: 4, [Q♠][8♡][][4♣]
+Player 1: Score: 3, [][9♡][J♢][]
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3 plays 6♣
+--------------------------------------------------
+Deck: [4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 4: Score: 4, [Q♠][8♡][][4♣]
+Player 1: Score: 3, [][9♡][J♢][]
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3: Score: 8, [][][K♢][9♣]
+Player 4 plays 4♣
+--------------------------------------------------
+Deck: [4♡, 8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 4♣
+Player 1: Score: 3, [][9♡][J♢][]
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3: Score: 8, [][][K♢][9♣]
+Player 4: Score: 4, [Q♠][8♡][][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [8♠, 2♣, 2♢, 5♡, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 4♣
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3: Score: 8, [][][K♢][9♣]
+Player 4: Score: 4, [Q♠][8♡][][]
+Player 1: Score: 3, [][4♡, 9♡][J♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [2♣, 2♢, 5♡, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 4♣
+Player 3: Score: 8, [][][K♢][9♣]
+Player 4: Score: 4, [Q♠][8♡][][]
+Player 1: Score: 3, [][4♡, 9♡][J♢][]
+Player 2: Score: 3, [8♠][Q♡, 10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [2♢, 5♡, 3♠]
+Declared Suit: s, Draw Count: 0, Top Card: 4♣
+Player 4: Score: 4, [Q♠][8♡][][]
+Player 1: Score: 3, [][4♡, 9♡][J♢][]
+Player 2: Score: 3, [8♠][Q♡, 10♡][][]
+Player 3: Score: 8, [][][K♢][2♣, 9♣]
+Player 4 plays Q♠
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [2♢, 5♡, 3♠]
+Declared Suit: , Draw Count: 5, Top Card: Q♠
+Player 1: Score: 3, [][4♡, 9♡][J♢][]
+Player 2: Score: 3, [8♠][Q♡, 10♡][][]
+Player 3: Score: 8, [][][K♢][2♣, 9♣]
+Player 4: Score: 4, [][8♡][][]
+Player 1 draws 5 cards
+--------------------------------------------------
+Deck: [9♢, 7♣, 5♠, K♣, 8♢, 6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: Q♠
+Player 2: Score: 3, [8♠][Q♡, 10♡][][]
+Player 3: Score: 8, [][][K♢][2♣, 9♣]
+Player 4: Score: 4, [][8♡][][]
+Player 1: Score: 3, [3♠][7♡, 5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2 plays 8♠
+--------------------------------------------------
+Deck: [9♢, 7♣, 5♠, K♣, 8♢, 6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 3: Score: 8, [][][K♢][2♣, 9♣]
+Player 4: Score: 4, [][8♡][][]
+Player 1: Score: 3, [3♠][7♡, 5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [7♣, 5♠, K♣, 8♢, 6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 4: Score: 4, [][8♡][][]
+Player 1: Score: 3, [3♠][7♡, 5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4 plays 8♡
+Player 4 is out of cards to play! Player 4 draws 3 cards
+--------------------------------------------------
+Deck: [8♢, 6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 1: Score: 3, [3♠][7♡, 5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [5♠][][][K♣, 7♣]
+Player 1 plays 7♡
+--------------------------------------------------
+Deck: [8♢, 6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 7♡
+Player 2: Score: 3, [][Q♡, 10♡][][]
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2 plays Q♡
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [8♢, 6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 3, [][10♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [6♠, 2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 4: Score: 3, [5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][8♢, 9♢, K♢][2♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 1: Score: 3, [3♠][5♡, 4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][8♢, 9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1 plays 5♡
+--------------------------------------------------
+Deck: [2♡, 2♠, 10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 2: Score: 3, [][10♡][][]
+Player 3: Score: 8, [][][8♢, 9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][4♡, 9♡][2♢, J♢][5♣]
+Player 2 plays 10♡
+Player 2 is out of cards to play! Player 2 draws 2 cards
+--------------------------------------------------
+Deck: [10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 10♡
+Player 3: Score: 8, [][][8♢, 9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 2, [2♠][2♡][][]
+Player 3 plays 8♢
+--------------------------------------------------
+Deck: [10♠, 3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: d, Draw Count: 0, Top Card: 8♢
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 2, [2♠][2♡][][]
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: d, Draw Count: 0, Top Card: 8♢
+Player 1: Score: 3, [3♠][4♡, 9♡][2♢, J♢][5♣]
+Player 2: Score: 2, [2♠][2♡][][]
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1 plays 2♢
+--------------------------------------------------
+Deck: [3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 2, Top Card: 2♢
+Player 2: Score: 2, [2♠][2♡][][]
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][4♡, 9♡][J♢][5♣]
+Player 2 plays 2♠
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [3♢, 10♢, A♣, 6♣, J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 4, Top Card: 2♠
+Player 3: Score: 8, [][][9♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][4♡, 9♡][J♢][5♣]
+Player 2: Score: 2, [][2♡][][]
+Player 3 draws 4 cards
+--------------------------------------------------
+Deck: [J♠, 3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 0, Top Card: 2♠
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][4♡, 9♡][J♢][5♣]
+Player 2: Score: 2, [][2♡][][]
+Player 3: Score: 8, [][][10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 0, Top Card: 2♠
+Player 1: Score: 3, [3♠][4♡, 9♡][J♢][5♣]
+Player 2: Score: 2, [][2♡][][]
+Player 3: Score: 8, [][][10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [J♠, 10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1 plays 4♡
+--------------------------------------------------
+Deck: [3♣, A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 2: Score: 2, [][2♡][][]
+Player 3: Score: 8, [][][10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [J♠, 10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2 plays 2♡
+Player 2 is out of cards to play! Player 2 draws 1 cards
+--------------------------------------------------
+Deck: [A♢, 6♢, 4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: s, Draw Count: 2, Top Card: 2♡
+Player 3: Score: 8, [][][10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [J♠, 10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2: Score: 1, [][][][3♣]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: s, Draw Count: 0, Top Card: 2♡
+Player 4: Score: 3, [J♠, 10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2: Score: 1, [][][][3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4 plays J♠
+--------------------------------------------------
+Deck: [4♠, 7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 2: Score: 1, [][][][3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [7♢, Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2: Score: 1, [4♠][][][3♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 4: Score: 3, [10♠, 6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2: Score: 1, [4♠][][][3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4 plays 10♠
+--------------------------------------------------
+Deck: [Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 1: Score: 3, [3♠][9♡][J♢][5♣]
+Player 2: Score: 1, [4♠][][][3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1 plays 3♠
+--------------------------------------------------
+Deck: [Q♣, 10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 0, Top Card: 3♠
+Player 2: Score: 1, [4♠][][][3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [][9♡][J♢][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [10♣, 8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 0, Top Card: 3♠
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [][9♡][J♢][5♣]
+Player 2: Score: 1, [4♠][][][Q♣, 3♣]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [8♣, 9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 0, Top Card: 3♠
+Player 4: Score: 3, [6♠, 5♠][][][K♣, 7♣]
+Player 1: Score: 3, [][9♡][J♢][5♣]
+Player 2: Score: 1, [4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: h, Draw Count: 0, Top Card: 3♠
+Player 1: Score: 3, [][9♡][J♢][5♣]
+Player 2: Score: 1, [4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][8♣, K♣, 7♣]
+Player 1 plays 9♡
+--------------------------------------------------
+Deck: [9♠, K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 2: Score: 1, [4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][8♣, K♣, 7♣]
+Player 1: Score: 3, [][][J♢][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, 9♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][][][8♣, K♣, 7♣]
+Player 1: Score: 3, [][][J♢][5♣]
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3 plays 9♢
+--------------------------------------------------
+Deck: [K♡, 4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 4: Score: 3, [6♠, 5♠][][][8♣, K♣, 7♣]
+Player 1: Score: 3, [][][J♢][5♣]
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 1: Score: 3, [][][J♢][5♣]
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣, 7♣]
+Player 1 plays J♢
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 3: Score: 8, [][][7♢, 6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣, 7♣]
+Player 1: Score: 3, [][][][5♣]
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3 plays 7♢
+--------------------------------------------------
+Deck: [4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣, 7♣]
+Player 1: Score: 3, [][][][5♣]
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4 plays 7♣
+--------------------------------------------------
+Deck: [4♢, 6♡, 3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 1: Score: 3, [][][][5♣]
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣]
+Player 1 plays 5♣
+Player 1 is out of cards to play! Player 1 draws 2 cards
+--------------------------------------------------
+Deck: [3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 5♣
+Player 2: Score: 1, [9♠, 4♠][][][Q♣, 3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣]
+Player 1: Score: 2, [][6♡][4♢][]
+Player 2 plays Q♣
+--------------------------------------------------
+Deck: [3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][10♣, 6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣]
+Player 1: Score: 2, [][6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][3♣]
+Player 3 plays 10♣
+--------------------------------------------------
+Deck: [3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 4: Score: 3, [6♠, 5♠][K♡][][8♣, K♣]
+Player 1: Score: 2, [][6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4 plays 8♣
+--------------------------------------------------
+Deck: [3♡, 7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 8♣
+Player 1: Score: 2, [][6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][K♣]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 8♣
+Player 2: Score: 1, [9♠, 4♠][][][3♣]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][K♣]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2 plays 3♣
+--------------------------------------------------
+Deck: [7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][6♣, A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][K♣]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3 plays 6♣
+--------------------------------------------------
+Deck: [7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 4: Score: 3, [6♠, 5♠][K♡][][K♣]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][A♣, 2♣, 9♣]
+Player 4 plays K♣
+--------------------------------------------------
+Deck: [7♠, A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [A♠, J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][]
+Player 1: Score: 2, [7♠][3♡, 6♡][4♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][A♣, 2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][]
+Player 1: Score: 2, [7♠][3♡, 6♡][4♢][]
+Player 2: Score: 1, [A♠, 9♠, 4♠][][][]
+Player 3 plays A♣
+--------------------------------------------------
+Deck: [J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: A♣
+Player 2: Score: 1, [A♠, 9♠, 4♠][][][]
+Player 1: Score: 2, [7♠][3♡, 6♡][4♢][]
+Player 4: Score: 3, [6♠, 5♠][K♡][][]
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][2♣, 9♣]
+Player 2 plays A♠
+--------------------------------------------------
+Deck: [J♡, 5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: s, Draw Count: 0, Top Card: A♠
+Player 3: Score: 8, [][][6♢, A♢, 10♢, 3♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [6♠, 5♠][K♡][][]
+Player 1: Score: 2, [7♠][3♡, 6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: s, Draw Count: 0, Top Card: A♠
+Player 4: Score: 3, [6♠, 5♠][K♡][][]
+Player 1: Score: 2, [7♠][3♡, 6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣, 9♣]
+Player 4 plays 6♠
+--------------------------------------------------
+Deck: [5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 1: Score: 2, [7♠][3♡, 6♡][4♢][]
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [5♠][K♡][][]
+Player 1 plays 7♠
+--------------------------------------------------
+Deck: [5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 2: Score: 1, [9♠, 4♠][][][]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [5♠][K♡][][]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2 plays 9♠
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣, 9♣]
+Player 4: Score: 3, [5♠][K♡][][]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 3 plays 9♣
+--------------------------------------------------
+Deck: [5♢, A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 4: Score: 3, [5♠][K♡][][]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [A♡, 4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣]
+Player 4: Score: 3, [5♠][K♡][5♢][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [4♣, Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣]
+Player 4: Score: 3, [5♠][K♡][5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 0, Top Card: 9♣
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][2♣]
+Player 4: Score: 3, [5♠][K♡][5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][4♣]
+Player 3 plays 2♣
+--------------------------------------------------
+Deck: [Q♢, K♠, J♣]
+Declared Suit: , Draw Count: 2, Top Card: 2♣
+Player 4: Score: 3, [5♠][K♡][5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][4♣]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4 draws 2 cards
+--------------------------------------------------
+Deck: [J♣]
+Declared Suit: , Draw Count: 0, Top Card: 2♣
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][4♣]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 1 draws 1 card
+--------------------------------------------------
+Deck: [Q♡, 2♡, 5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♣
+Player 2: Score: 1, [4♠][][][4♣]
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][J♣]
+Player 2 plays 4♣
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [Q♡, 2♡, 5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 3: Score: 8, [][J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][J♣]
+Player 2: Score: 1, [4♠][][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [2♡, 5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][J♣]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][Q♡, J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][J♣]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][Q♡, J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [K♠, 5♠][2♡, K♡][Q♢, 5♢][]
+Player 1 plays J♣
+--------------------------------------------------
+Deck: [5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 3: Score: 8, [][Q♡, J♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [K♠, 5♠][2♡, K♡][Q♢, 5♢][]
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 3 plays J♡
+--------------------------------------------------
+Deck: [5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 1: Score: 2, [][A♡, 3♡, 6♡][4♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][Q♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [K♠, 5♠][2♡, K♡][Q♢, 5♢][]
+Player 1 plays A♡
+--------------------------------------------------
+Deck: [5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: A♡
+Player 4: Score: 3, [K♠, 5♠][2♡, K♡][Q♢, 5♢][]
+Player 3: Score: 8, [][Q♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 4 plays 2♡
+--------------------------------------------------
+Deck: [5♣, 9♢, 7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♡
+Player 3: Score: 8, [][Q♡][6♢, A♢, 10♢, 3♢, K♢][]
+Player 2: Score: 1, [4♠][][][]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [7♡, 7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 2: Score: 1, [4♠][][][]
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 3: Score: 8, [][Q♡][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♡
+Player 1: Score: 2, [][3♡, 6♡][4♢][]
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 3: Score: 8, [][Q♡][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][7♡][][]
+Player 1 plays 3♡
+--------------------------------------------------
+Deck: [7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 4: Score: 3, [K♠, 5♠][K♡][Q♢, 5♢][]
+Player 3: Score: 8, [][Q♡][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][7♡][][]
+Player 1: Score: 2, [][6♡][4♢][]
+Player 4 plays K♡
+--------------------------------------------------
+Deck: [7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 3: Score: 8, [][Q♡][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][7♡][][]
+Player 1: Score: 2, [][6♡][4♢][]
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][]
+Player 3 plays Q♡
+--------------------------------------------------
+Deck: [7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♡
+Player 2: Score: 1, [4♠][7♡][][]
+Player 1: Score: 2, [][6♡][4♢][]
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][]
+Player 3: Score: 8, [][][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2 plays 7♡
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♡
+Player 1: Score: 2, [][6♡][4♢][]
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][]
+Player 3: Score: 8, [][][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][][][]
+Player 1 plays 6♡
+*Knock, knock* - Player 1 has a single card left!
+--------------------------------------------------
+Deck: [7♣, A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][]
+Player 3: Score: 8, [][][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][][][]
+Player 1: Score: 2, [][][4♢][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 3: Score: 8, [][][9♢, 6♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][][][]
+Player 1: Score: 2, [][][4♢][]
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][7♣]
+Player 3 plays 6♢
+--------------------------------------------------
+Deck: [A♣, K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 2: Score: 1, [4♠][][][]
+Player 1: Score: 2, [][][4♢][]
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][7♣]
+Player 3: Score: 8, [][][9♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [K♣, 4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 1: Score: 2, [][][4♢][]
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][7♣]
+Player 3: Score: 8, [][][9♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][][][A♣]
+Player 1 plays 4♢
+Player 1 is out of cards to play! Player 1 draws 1 cards
+--------------------------------------------------
+Deck: [4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♢
+Player 4: Score: 3, [K♠, 5♠][][Q♢, 5♢][7♣]
+Player 3: Score: 8, [][][9♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][][][A♣]
+Player 1: Score: 1, [][][][K♣]
+Player 4 plays Q♢
+--------------------------------------------------
+Deck: [4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 3: Score: 8, [][][9♢, A♢, 10♢, 3♢, K♢][5♣]
+Player 2: Score: 1, [4♠][][][A♣]
+Player 1: Score: 1, [][][][K♣]
+Player 4: Score: 3, [K♠, 5♠][][5♢][7♣]
+Player 3 plays 9♢
+--------------------------------------------------
+Deck: [4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♢
+Player 2: Score: 1, [4♠][][][A♣]
+Player 1: Score: 1, [][][][K♣]
+Player 4: Score: 3, [K♠, 5♠][][5♢][7♣]
+Player 3: Score: 8, [][][A♢, 10♢, 3♢, K♢][5♣]
+Player 2 plays A♣
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [4♡, 2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: s, Draw Count: 0, Top Card: A♣
+Player 3: Score: 8, [][][A♢, 10♢, 3♢, K♢][5♣]
+Player 4: Score: 3, [K♠, 5♠][][5♢][7♣]
+Player 1: Score: 1, [][][][K♣]
+Player 2: Score: 1, [4♠][][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: s, Draw Count: 0, Top Card: A♣
+Player 4: Score: 3, [K♠, 5♠][][5♢][7♣]
+Player 1: Score: 1, [][][][K♣]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][5♣]
+Player 4 plays K♠
+--------------------------------------------------
+Deck: [2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♠
+Player 1: Score: 1, [][][][K♣]
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][5♣]
+Player 4: Score: 3, [5♠][][5♢][7♣]
+Player 1 plays K♣
+Player 1 finishes in position 1
+--------------------------------------------------
+Deck: [2♠, 7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 2: Score: 1, [4♠][][][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][5♣]
+Player 4: Score: 3, [5♠][][5♢][7♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][5♣]
+Player 4: Score: 3, [5♠][][5♢][7♣]
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 3 plays 5♣
+--------------------------------------------------
+Deck: [7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♣
+Player 4: Score: 3, [5♠][][5♢][7♣]
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][]
+Player 4 plays 7♣
+--------------------------------------------------
+Deck: [7♢, 9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [5♠][][5♢][]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [9♣, 8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][]
+Player 4: Score: 3, [5♠][][5♢][]
+Player 2: Score: 1, [2♠, 4♠][][7♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [8♠, J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 4: Score: 3, [5♠][][5♢][]
+Player 2: Score: 1, [2♠, 4♠][][7♢][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♣
+Player 2: Score: 1, [2♠, 4♠][][7♢][]
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][9♣]
+Player 4: Score: 3, [8♠, 5♠][][5♢][]
+Player 2 plays 7♢
+--------------------------------------------------
+Deck: [J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 3: Score: 8, [][4♡][A♢, 10♢, 3♢, K♢][9♣]
+Player 4: Score: 3, [8♠, 5♠][][5♢][]
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 3 plays A♢
+--------------------------------------------------
+Deck: [J♢, 6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 4: Score: 3, [8♠, 5♠][][5♢][]
+Player 3: Score: 8, [][4♡][10♢, 3♢, K♢][9♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: A♢
+Player 4: Score: 3, [8♠, 5♠][][5♢][]
+Player 3: Score: 8, [][4♡][10♢, 3♢, K♢][9♣]
+Player 2: Score: 1, [2♠, 4♠][][J♢][]
+Player 4 plays 5♢
+--------------------------------------------------
+Deck: [6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 3: Score: 8, [][4♡][10♢, 3♢, K♢][9♣]
+Player 2: Score: 1, [2♠, 4♠][][J♢][]
+Player 4: Score: 3, [8♠, 5♠][][][]
+Player 3 plays 10♢
+--------------------------------------------------
+Deck: [6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♢
+Player 2: Score: 1, [2♠, 4♠][][J♢][]
+Player 4: Score: 3, [8♠, 5♠][][][]
+Player 3: Score: 8, [][4♡][3♢, K♢][9♣]
+Player 2 plays J♢
+--------------------------------------------------
+Deck: [6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: J♢
+Player 3: Score: 8, [][4♡][3♢, K♢][9♣]
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 4: Score: 3, [8♠, 5♠][][][]
+Player 3 plays 3♢
+--------------------------------------------------
+Deck: [6♣, 7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 2: Score: 1, [2♠, 4♠][][][]
+Player 4: Score: 3, [8♠, 5♠][][][]
+Player 3: Score: 8, [][4♡][K♢][9♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [7♠, 2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 4: Score: 3, [8♠, 5♠][][][]
+Player 3: Score: 8, [][4♡][K♢][9♣]
+Player 2: Score: 1, [2♠, 4♠][][][6♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♢
+Player 3: Score: 8, [][4♡][K♢][9♣]
+Player 2: Score: 1, [2♠, 4♠][][][6♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][][][]
+Player 3 plays K♢
+--------------------------------------------------
+Deck: [2♢, 9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 2: Score: 1, [2♠, 4♠][][][6♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][][][]
+Player 3: Score: 8, [][4♡][][9♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [9♡, 3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 4: Score: 3, [7♠, 8♠, 5♠][][][]
+Player 3: Score: 8, [][4♡][][9♣]
+Player 2: Score: 1, [2♠, 4♠][][2♢][6♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [3♣, 8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 3: Score: 8, [][4♡][][9♣]
+Player 2: Score: 1, [2♠, 4♠][][2♢][6♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][9♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: K♢
+Player 2: Score: 1, [2♠, 4♠][][2♢][6♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][9♡][][]
+Player 3: Score: 8, [][4♡][][3♣, 9♣]
+Player 2 plays 2♢
+--------------------------------------------------
+Deck: [8♡, 8♢, 8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♢
+Player 4: Score: 3, [7♠, 8♠, 5♠][9♡][][]
+Player 3: Score: 8, [][4♡][][3♣, 9♣]
+Player 2: Score: 1, [2♠, 4♠][][][6♣]
+Player 4 draws 2 cards
+--------------------------------------------------
+Deck: [8♣, 9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 3: Score: 8, [][4♡][][3♣, 9♣]
+Player 2: Score: 1, [2♠, 4♠][][][6♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♢
+Player 2: Score: 1, [2♠, 4♠][][][6♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][8♣, 3♣, 9♣]
+Player 2 plays 2♠
+--------------------------------------------------
+Deck: [9♠, Q♠, 3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 2, Top Card: 2♠
+Player 4: Score: 3, [7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][8♣, 3♣, 9♣]
+Player 2: Score: 1, [4♠][][][6♣]
+Player 4 draws 2 cards
+--------------------------------------------------
+Deck: [3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 2♠
+Player 3: Score: 8, [][4♡][][8♣, 3♣, 9♣]
+Player 2: Score: 1, [4♠][][][6♣]
+Player 4: Score: 3, [Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 plays 8♣
+--------------------------------------------------
+Deck: [3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: c, Draw Count: 0, Top Card: 8♣
+Player 2: Score: 1, [4♠][][][6♣]
+Player 4: Score: 3, [Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][3♣, 9♣]
+Player 2 plays 6♣
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [3♠, 10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 4: Score: 3, [Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][3♣, 9♣]
+Player 2: Score: 1, [4♠][][][]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♣
+Player 3: Score: 8, [][4♡][][3♣, 9♣]
+Player 2: Score: 1, [4♠][][][]
+Player 4: Score: 3, [3♠, Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 plays 3♣
+--------------------------------------------------
+Deck: [10♠, 10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 2: Score: 1, [4♠][][][]
+Player 4: Score: 3, [3♠, Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][9♣]
+Player 2 draws 1 card
+--------------------------------------------------
+Deck: [10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 3♣
+Player 4: Score: 3, [3♠, Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][9♣]
+Player 2: Score: 1, [10♠, 4♠][][][]
+Player 4 plays 3♠
+--------------------------------------------------
+Deck: [10♣, 10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: s, Draw Count: 0, Top Card: 3♠
+Player 3: Score: 8, [][4♡][][9♣]
+Player 2: Score: 1, [10♠, 4♠][][][]
+Player 4: Score: 3, [Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: s, Draw Count: 0, Top Card: 3♠
+Player 2: Score: 1, [10♠, 4♠][][][]
+Player 4: Score: 3, [Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][10♣, 9♣]
+Player 2 plays 10♠
+*Knock, knock* - Player 2 has a single card left!
+--------------------------------------------------
+Deck: [10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 0, Top Card: 10♠
+Player 4: Score: 3, [Q♠, 9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][4♡][][10♣, 9♣]
+Player 2: Score: 1, [4♠][][][]
+Player 4 plays Q♠
+--------------------------------------------------
+Deck: [10♡, 5♡, Q♣, 6♠, J♠, A♠]
+Declared Suit: , Draw Count: 5, Top Card: Q♠
+Player 3: Score: 8, [][4♡][][10♣, 9♣]
+Player 2: Score: 1, [4♠][][][]
+Player 4: Score: 3, [9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 draws 5 cards
+--------------------------------------------------
+Deck: [A♠]
+Declared Suit: , Draw Count: 0, Top Card: Q♠
+Player 2: Score: 1, [4♠][][][]
+Player 4: Score: 3, [9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [J♠, 6♠][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 2 plays 4♠
+Player 2 finishes in position 2
+--------------------------------------------------
+Deck: [A♠]
+Declared Suit: , Draw Count: 0, Top Card: 4♠
+Player 4: Score: 3, [9♠, 7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [J♠, 6♠][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4 plays 9♠
+--------------------------------------------------
+Deck: [A♠]
+Declared Suit: , Draw Count: 0, Top Card: 9♠
+Player 3: Score: 8, [J♠, 6♠][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 plays J♠
+--------------------------------------------------
+Deck: [A♠]
+Declared Suit: , Draw Count: 0, Top Card: J♠
+Player 3: Score: 8, [6♠][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 plays 6♠
+--------------------------------------------------
+Deck: [A♠]
+Declared Suit: , Draw Count: 0, Top Card: 6♠
+Player 4: Score: 3, [7♠, 8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4 plays 7♠
+--------------------------------------------------
+Deck: [A♠]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 3: Score: 8, [][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [8♠, 5♠][8♡, 9♡][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 7♠
+Player 4: Score: 3, [8♠, 5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [A♠][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4 plays 8♠
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♠
+Player 3: Score: 8, [A♠][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [5♠][8♡, 9♡][8♢][]
+Player 3 plays A♠
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: A♠
+Player 4: Score: 3, [5♠][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4 plays 5♠
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 5♠
+Player 3: Score: 8, [][5♡, 10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][8♡, 9♡][8♢][]
+Player 3 plays 5♡
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 5♡
+Player 4: Score: 3, [][8♡, 9♡][8♢][]
+Player 3: Score: 8, [][10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4 plays 8♡
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♡
+Player 3: Score: 8, [][10♡, 4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][9♡][8♢][]
+Player 3 plays 10♡
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 10♡
+Player 4: Score: 3, [][9♡][8♢][]
+Player 3: Score: 8, [][4♡][][Q♣, 10♣, 9♣]
+Player 4 plays 9♡
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 9♡
+Player 3: Score: 8, [][4♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][][8♢][]
+Player 3 plays 4♡
+--------------------------------------------------
+Deck: [6♢, 3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 4: Score: 3, [][][8♢][]
+Player 3: Score: 8, [][][][Q♣, 10♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [3♡, Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 3: Score: 8, [][][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][][6♢, 8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [Q♢, 6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 4: Score: 3, [][][6♢, 8♢][]
+Player 3: Score: 8, [][3♡][][Q♣, 10♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♡
+Player 3: Score: 8, [][3♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][][Q♢, 6♢, 8♢][]
+Player 3 plays 3♡
+--------------------------------------------------
+Deck: [6♡, J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 4: Score: 3, [][][Q♢, 6♢, 8♢][]
+Player 3: Score: 8, [][][][Q♣, 10♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [J♡, J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 3: Score: 8, [][][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][6♡][Q♢, 6♢, 8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 3♡
+Player 4: Score: 3, [][6♡][Q♢, 6♢, 8♢][]
+Player 3: Score: 8, [][J♡][][Q♣, 10♣, 9♣]
+Player 4 plays 6♡
+--------------------------------------------------
+Deck: [J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 6♡
+Player 3: Score: 8, [][J♡][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][][Q♢, 6♢, 8♢][]
+Player 3 plays J♡
+--------------------------------------------------
+Deck: [J♣, K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 3: Score: 8, [][][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][][Q♢, 6♢, 8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [K♡, K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 4: Score: 3, [][][Q♢, 6♢, 8♢][]
+Player 3: Score: 8, [][][][J♣, Q♣, 10♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: J♡
+Player 3: Score: 8, [][][][J♣, Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][Q♢, 6♢, 8♢][]
+Player 3 plays J♣
+--------------------------------------------------
+Deck: [K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: J♣
+Player 3: Score: 8, [][][][Q♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][Q♢, 6♢, 8♢][]
+Player 3 plays Q♣
+--------------------------------------------------
+Deck: [K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♣
+Player 4: Score: 3, [][K♡][Q♢, 6♢, 8♢][]
+Player 3: Score: 8, [][][][10♣, 9♣]
+Player 4 plays Q♢
+--------------------------------------------------
+Deck: [K♣, 7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 3: Score: 8, [][][][10♣, 9♣]
+Player 4: Score: 3, [][K♡][6♢, 8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: Q♢
+Player 4: Score: 3, [][K♡][6♢, 8♢][]
+Player 3: Score: 8, [][][][K♣, 10♣, 9♣]
+Player 4 plays 6♢
+--------------------------------------------------
+Deck: [7♡, 9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 3: Score: 8, [][][][K♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][8♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 6♢
+Player 4: Score: 3, [][K♡][8♢][]
+Player 3: Score: 8, [][7♡][][K♣, 10♣, 9♣]
+Player 4 plays 8♢
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [9♠, 5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 3: Score: 8, [][7♡][][K♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [5♢, 7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 4: Score: 3, [][K♡][][]
+Player 3: Score: 8, [9♠][7♡][][K♣, 10♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [7♢, 4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 3: Score: 8, [9♠][7♡][][K♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][5♢][]
+Player 3 draws 1 card
+--------------------------------------------------
+Deck: [4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 8♢
+Player 4: Score: 3, [][K♡][5♢][]
+Player 3: Score: 8, [9♠][7♡][7♢][K♣, 10♣, 9♣]
+Player 4 plays 5♢
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 5♢
+Player 3: Score: 8, [9♠][7♡][7♢][K♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][][]
+Player 3 plays 7♢
+--------------------------------------------------
+Deck: [4♣, 2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 4: Score: 3, [][K♡][][]
+Player 3: Score: 8, [9♠][7♡][][K♣, 10♣, 9♣]
+Player 4 draws 1 card
+--------------------------------------------------
+Deck: [2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 7♢
+Player 3: Score: 8, [9♠][7♡][][K♣, 10♣, 9♣]
+Player 4: Score: 3, [][K♡][][4♣]
+Player 3 plays 7♡
+--------------------------------------------------
+Deck: [2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 7♡
+Player 4: Score: 3, [][K♡][][4♣]
+Player 3: Score: 8, [9♠][][][K♣, 10♣, 9♣]
+Player 4 plays K♡
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: K♡
+Player 3: Score: 8, [9♠][][][K♣, 10♣, 9♣]
+Player 4: Score: 3, [][][][4♣]
+Player 3 plays K♣
+--------------------------------------------------
+Deck: [2♣, 2♡, A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: K♣
+Player 4: Score: 3, [][][][4♣]
+Player 3: Score: 8, [9♠][][][10♣, 9♣]
+Player 4 plays 4♣
+Player 4 is out of cards to play! Player 4 draws 2 cards
+--------------------------------------------------
+Deck: [A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 4♣
+Player 3: Score: 8, [9♠][][][10♣, 9♣]
+Player 4: Score: 2, [][2♡][][2♣]
+Player 3 plays 10♣
+--------------------------------------------------
+Deck: [A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: , Draw Count: 0, Top Card: 10♣
+Player 4: Score: 2, [][2♡][][2♣]
+Player 3: Score: 8, [9♠][][][9♣]
+Player 4 plays 2♡
+*Knock, knock* - Player 4 has a single card left!
+--------------------------------------------------
+Deck: [A♡, 5♣, Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: c, Draw Count: 2, Top Card: 2♡
+Player 3: Score: 8, [9♠][][][9♣]
+Player 4: Score: 2, [][][][2♣]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [Q♠, 2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: c, Draw Count: 0, Top Card: 2♡
+Player 4: Score: 2, [][][][2♣]
+Player 3: Score: 8, [9♠][A♡][][5♣, 9♣]
+Player 4 plays 2♣
+Player 4 is out of cards to play! Player 4 draws 1 cards
+--------------------------------------------------
+Deck: [2♢, 6♠, 3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: s, Draw Count: 2, Top Card: 2♣
+Player 3: Score: 8, [9♠][A♡][][5♣, 9♣]
+Player 4: Score: 1, [Q♠][][][]
+Player 3 draws 2 cards
+--------------------------------------------------
+Deck: [3♣, 6♣, 4♠, K♠, J♠, A♢, Q♡, K♢, 8♣, 2♠, 10♠, 3♠, 3♢, A♣, 7♣, J♢, 4♢, 9♢, 10♢]
+Declared Suit: s, Draw Count: 0, Top Card: 2♣
+Player 4: Score: 1, [Q♠][][][]
+Player 3: Score: 8, [6♠, 9♠][A♡][2♢][5♣, 9♣]
+Player 4 plays Q♠
+Player 4 finishes in position 3
+Player 3 finishes last
